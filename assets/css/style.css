@@ -2,13 +2,31 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap:100,200,300,400,500,600,700');
 
 /* -- All Pages -- */
+#8a796b
+#eae4dc
+#ebe5db
+#efeae2
+#775d4a
+#554134
+#9e7f64
+#614a3b
+#b9997e
+#b08d6f
+#cba98b
+#cba98b
+#dbd9d6
+#7a695e
+#c5a58a
+#9f9f97
+#dad9d6
+#c7a484
 
 /*-I've added min-height, display flex, flex direction and flex 1 to push my footer to the bottom of the screen-*/
 body,html {
-    background-color: #800080;
+    background-color: #9e7f64;
     text-align: center;
     font-family: 'Amarante', 'Roboto', sans-serif;
-    color: #CA9E65;
+    color: #c7a484;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
