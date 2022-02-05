@@ -1,6 +1,7 @@
 
 
-# **QUIZZICAL** <a name="top"></a>
+# **ArchiQuiz
+** <a name="top"></a>
 
 Quizzical is a fun, exciting, general knowledge-based quiz game. The Quizzical website's main goal is to provide the user with a pleasurable experience,
 one that's memorable and has great replay value. Quizzical is also intended to teach and educate users. It is hoped that people will walk away feeling
