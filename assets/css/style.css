@@ -76,7 +76,7 @@ main {
 
 .btn {
   font-size: 2.75vh;
-  color: #800080;
+  color: #9e7f64;
   background-color: #CA9E65;
   border-radius: 2rem;
 }
@@ -84,7 +84,7 @@ main {
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.35rem 1.35rem 0 rgba(203, 158, 101, 0.8);
-    color: #800080;
+    color: #9e7f64;
 }
 
 /* -- Questions -- */
@@ -95,7 +95,7 @@ main {
 
 .question-container {
     font-size: 2.25vh;
-    color: #800080;
+    color: #9e7f64;
     background-color: #CA9E65;
     border-radius: 2rem;
 }
@@ -152,7 +152,7 @@ main {
 input {
     width: 100%;
     font-size: 2.75vh;
-    background-color: #800080;
+    background-color: #9e7f64;
     color: #CA9E65;
     border: 0.2rem solid #CA9E65;
     border-radius: 2rem;
@@ -180,7 +180,7 @@ button[disabled]:hover {
 .lb-name { 
     width: 85%; 
     float: left; 
-    background-color: #800080; 
+    background-color: #9e7f64; 
     color: #CA9E65; 
     border: 0.2rem solid #CA9E65; 
     border-radius: 2rem; 
@@ -191,7 +191,7 @@ button[disabled]:hover {
     width: 15%; 
     float: right; 
     background-color: #CA9E65; 
-    color: #800080; 
+    color: #9e7f64; 
     border: 0.2rem solid #CA9E65; 
     border-radius: 2rem; 
     margin-bottom: 0.5rem; 
@@ -202,7 +202,7 @@ button[disabled]:hover {
 /*-This indicates to user that questions are loading. I took inspiration for this from https://www.w3schools.com/howto/howto_css_loader.asp-*/
 #loading-spinner {
   border: 1rem solid #CA9E65;
-  border-top: 1rem solid #800080;
+  border-top: 1rem solid #9e7f64;
   border-radius: 50%;
   width: 10rem;
   height: 10rem;
