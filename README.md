@@ -165,7 +165,7 @@ of the journey. Please find below the original Wireframes for ArchiQuiz's projec
 
 Finally with the basics down on paper and screen, it was time to start shaping things up. After wireframes, it's time to take things a little more
 seriously. Enter Adobe XD. Adobe XD is a powerful piece of software designed to assist artists worldwide. More detailed designs are now progressed, 
-and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to Quizzical's Mock-Ups. You can clearly see how the 
+and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to ArchiQuiz's Mock-Ups. You can clearly see how the 
 project has evolved.
 
 * [Home Page Mockup](design/mockups/ms2-mockup-home.png)
@@ -212,10 +212,10 @@ White text is used here because gold/purple text clashed negatively.
 | Custom Red        |#B61E1E
 | White             |#FFFFFF
 
-The images used for Quizzical's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. Quizzical is a thinking game
+The images used for ArchiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArchiQuizis a thinking game
 therefore users must use their brains. The bright lights located above the letters "i" within the logo represent a illuminated light bulb; this conveys thinking.
 
- * The font used throughout Quizzical's website is Google font's Amarante - [Google Fonts' - Amarante](https://fonts.google.com/specimen/Amarante?query=Amarante).
+ * The font used throughout ArchiQuiz's website is Google font's Amarante - [Google Fonts' - Amarante](https://fonts.google.com/specimen/Amarante?query=Amarante).
 
  * If at any point a browser cannot support the Amarante font, the browser will fall back on Roboto - [Google Fonts' - Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
 
@@ -236,15 +236,15 @@ is disabled. The "Save Score" button has been disabled to prevent users from bei
 entered their name, the "Save Score" button becomes available to click. 
 
 * Below the "Save Score" button there are three more buttons, "Play Again", "View Leaderboard", and "Return to Home". The "Play Again" button will instantly direct the user to 
-a new game of Quizzical. The "View Leaderboard" button will direct the user to view the Leaderboard page of Quizzical's website. Finally, the "Return to Home" button will take 
-the user back to Quizzical's Home page. 
+a new game of Archiquiz. The "View Leaderboard" button will direct the user to view the Leaderboard page of Archiquiz's website. Finally, the "Return to Home" button will take 
+the user back to Archiquiz's Home page. 
 
-* To summarise, no matter where the user is within Quizzical's website, they shouldn't have any problem navigating themselves around.
+* To summarise, no matter where the user is within Archiquiz's website, they shouldn't have any problem navigating themselves around.
 Each button has the box-shadow hover effect. This will highlight each button to make them glow gold. 
 
 ### **HOME PAGE** <a name="home"></a>
 
-* The Home page displays a custom made Quizzical logo image developed using Adobe XD. 
+* The Home page displays a custom made Archiquiz logo image developed using Adobe XD. 
 
 * The logo image features keyframes animation. The logo will increase in size from 80% to 100% over a period of four seconds.
 
@@ -262,13 +262,13 @@ It essentially makes the buttons glow gold when they're interacted with.
 little vertical screen space is taken up. Similarly, this logo image was developed using Adobe XD. 
 
 * The first thing you should notice are the questions displayed on the Questions page. The questions themselves are displayed in a large font in gold text against a purple 
-background, keeping to the theme of the Quizzical website.
+background, keeping to the theme of the Archiquiz website.
 
 * Below the question, the user will be presented with four possible answers, each resembling a clickable button, much like those discovered on the Home page. When a user 
 hovers their mouse over an answer button, the button will have a box-shadow effect. 
 
 * Below the answer buttons, there is a progress bar. The progress bar is a visual interpretation of how far through the user is in their game. As a user progresses through 
-the game, the progress bar will fill. There are ten questions within the Quizzical game therefore the progress bar will fill ten per cent every time a question is answered. 
+the game, the progress bar will fill. There are ten questions within the Archiquiz game therefore the progress bar will fill ten per cent every time a question is answered. 
 The progress bar has a gold border and a purple background, it fills with gold as the game progresses, keeping to the theme of the website. 
 
 * South of the progress bar, the user is presented with three vital pieces of information.
@@ -279,7 +279,7 @@ The progress bar has a gold border and a purple background, it fills with gold a
     answer a question in time, points will be deducted and the next question will be populated. 
 
     3. Score Tally. Users will be awarded ten points (10) for each correct answer but three points (3) shall be deducted for any incorrect answer. This will be automatically 
-    updated with JavaScript code as the game is played. The point system is a key feature of the Quizzical website. It enables key replay value and competitiveness. 
+    updated with JavaScript code as the game is played. The point system is a key feature of the Archiquiz website. It enables key replay value and competitiveness. 
     
 * When a question is answered, the button clicked will briefly change colour to either green or red, depending on whether the question was answered correctly or incorrectly. 
 The text also changes to white momentarily. 
@@ -298,7 +298,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 to the user with a message of congratulations. 
 
 * Below the awarded points and congratulations message, the user is presented with an "Enter Name" field, this field allows a user to enter their name so that 
-they can ultimately save their awarded score onto the Quizzical leaderboard. 
+they can ultimately save their awarded score onto the Archiquiz leaderboard. 
 
 * Below is a "Save Score" button, as mentioned in the Navigation section of this document. Below are three navigation buttons which allow the user to navigate wherever they wish to go, 
 whether it be to "Play Again", "View Leaderboard", or "Return to Home". Each of these buttons are mentioned in the navigation section of this document. Each button has the box-shadow hover effect.
