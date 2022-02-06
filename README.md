@@ -466,12 +466,8 @@ Inspiration was used in various locations across the world wide web. Please see 
     * Thanks to w3schools for again providing solid information. Always a go-to site!
 
 ---
-:star: *A special thank you to [Maranatha Ilesanmi](https://github.com/mbilesanmi) Code Institute Mentor and [Paul F_alumni](https://github.com/Spagettileg) for aid, assistance, and much-needed guidance.* :star:
----
+:star: *A special thank you to Mo_mentor Code Institute Mentor and ######  for aid, assistance, and much-needed guidance.* :star:
 
----
-
-***This document is for educational use.***
 
 ---
 [:arrow_up: Return to top?](#top)
