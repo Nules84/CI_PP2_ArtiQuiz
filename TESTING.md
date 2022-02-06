@@ -1,13 +1,13 @@
 <div align="center"> <img src="assets/images/readme/readme-logo.png"> </div>
 
-# **QUIZZICAL TESTING** <a name="top"></a>
+# **ArchiQuiz TESTING** <a name="top"></a>
 
-Within this markdown file, you shall find extensive test analysis and reporting for the Quizzical website.
+Within this markdown file, you shall find extensive test analysis and reporting for the ArchiQuiz website.
 This has been added in a separate file for its readability and user-friendly approach. You can return
-to Quizzical's main readme file here: [README.md](https://github.com/WebSlinger88/Quizzical/blob/master/README.md).
+to ArchiQuiz's main readme file here: [README.md]####################.
 
 You can also find an Excel spreadsheet (saved as PDF) containing extensive test analysis and reporting. This spreadsheet is intended to provide a more visual report.
-You can find a link to the Excel (PDF) report here: [Quizzical Testing PDF](https://github.com/WebSlinger88/Quizzical/tree/master/testing).
+You can find a link to the Excel (PDF) report here: [ArchiQuiz Testing PDF]################.
 
 ---
 
@@ -35,11 +35,11 @@ You can find a link to the Excel (PDF) report here: [Quizzical Testing PDF](http
 
 ### **HOME PAGE** <a name="home-test"></a>
 
-* The user is presented with a landing page (Home page). The Quizzical main logo image and text are central. The Main logo has keyframes zoom animation which lasts for four seconds. 
+* The user is presented with a landing page (Home page). The ArchiQuiz main logo image and text are central. The Main logo has keyframes zoom animation which lasts for four seconds. 
 During this time the logo increases in size from 80% to 100%. This works well and offers great UX. This is initiated every time the Home page is loaded. 
 
 * Below the text there are two buttons. Each button is a link to another page. The first button, "Start Game", links us to the questions.html page. This page is the beginning 
-of the quiz game that Quizzical's website has to offer. The second button, "View Leaderboard", links us to the leaderboard.html page. This page is the page which we'll generally 
+of the quiz game that ArchiQuiz's website has to offer. The second button, "View Leaderboard", links us to the leaderboard.html page. This page is the page which we'll generally 
 find towards the end of the game. Both buttons work as expected and direct us flawlessly. Both buttons have a hover effect (box-shadow) which provides great UX. When a user's 
 mouse hovers over the buttons, each button highlights gold which keeps to the theme of the website and mimics the colour of the button itself. Also, it's worth mentioning that 
 the mouse cursor transforms into a pointer when hovered. This is true for both buttons. 
@@ -51,7 +51,7 @@ Each device and browser displayed the Home page perfectly and it was found that 
 
 ### **QUESTIONS PAGE** <a name="questions-test"></a>
 
-* The user is presented with the Questions page. Located at the top left-hand side of the screen is Quizzical's page logo. There are ten randomly generated questions and four randomly 
+* The user is presented with the Questions page. Located at the top left-hand side of the screen is ArchiQuiz's page logo. There are ten randomly generated questions and four randomly 
 generated answers to match said questions in the middle of the screen. The quiz has been played multiple times and it is found that the questions were, in fact, random every time the quiz 
 was played, as were the answers. This makes the quiz different every time it's played which makes great UX and superb replayability. 
 
@@ -88,7 +88,7 @@ perfectly and it was found that the page was responsive without any issues.
 
 ### **COMPLETED PAGE** <a name="completed-test"></a>
 
-* The user is presented with the Completed page. Located at the top is the Quizzical main logo. This has keyframes animation which zooms in from 80% to 100% over four seconds. This works well.
+* The user is presented with the Completed page. Located at the top is the ArchiQuiz main logo. This has keyframes animation which zooms in from 80% to 100% over four seconds. This works well.
 
 * There is a large heading stating "congratulations" and directly beneath that is the user's awarded score. This score changes every time the game is played. Whatever score the user accumulated 
 during the course of the game, that score is presented here. The game has been played multiple times and the score shown is always accurate without fail. 
@@ -110,8 +110,8 @@ perfectly and it was found that the page was responsive without any issues.
 
 ### **LEADERBOARD PAGE** <a name="leader-test"></a>
 
-* The user is presented with the Leaderboard page. Located at the top left-hand side of the screen is Quizzical's page logo. Central to the page is a large heading. If nobody has ever played
-Quizzical on the device they're currently using, no data or charts will be displayed. The page will be blank apart from the logo, header, "Return to Home" button, and the footer. If however
+* The user is presented with the Leaderboard page. Located at the top left-hand side of the screen is ArchiQuiz's page logo. Central to the page is a large heading. If nobody has ever played
+ArchiQuiz on the device they're currently using, no data or charts will be displayed. The page will be blank apart from the logo, header, "Return to Home" button, and the footer. If however
 a user has played a game and has been awarded with a score, the leaderboard will display a chart. This chart displays a user's name and their score only. Names are displayed on the left
 and scores are displayed on the right. Every time a game was played, a score was awarded and saved, my name and score was displayed on the leaderboard.html page perfectly and as expected.
 I feel this works rather well. Please note that scores are saved in local storage so if a computer's cache is deleted, so will the scores on the leaderboard. Scores are limited to their devices,
@@ -126,7 +126,7 @@ page perfectly and it was found that the page was responsive without any issues.
 
 ### **FOOTER** <a name="foot-test"></a>
 
-* The Quizzical footer is located at the very bottom of all HTML pages within the Quizzical website. Each footer is identical. Each footer contains text and a link to the web developers LinkedIn 
+* The ArchiQuiz footer is located at the very bottom of all HTML pages within the ArchiQuiz website. Each footer is identical. Each footer contains text and a link to the web developers LinkedIn 
 profile page. When this link is clicked, a new tab opens and I am directed to the profile page without a problem. There is also a hover effect much like the box-shadow effect found
 elsewhere on this site. When a user hovers their mouse over the developer's name, the text highlights and the mouse cursor transforms into a pointer. This works well for every HTML page.
 
@@ -134,7 +134,7 @@ elsewhere on this site. When a user hovers their mouse over the developer's name
 
 ## :tv: **DISPLAY TESTING** <a name="display-test"></a>
 
-The Quizzical website has been tested using an 18" Dell XPS laptop with Windows 10 + on an external 30" display as well as the following devices:
+The ArchiQuiz website has been tested using an 18" Dell XPS laptop with Windows 10 + on an external 30" display as well as the following devices:
 
 | **Browser Platform**                       | **Version**    
 | -------------------------------------------|:---------------------------------------------:| 
@@ -154,13 +154,13 @@ All tests were positive and no issues found apart from Internet Explorer 10 & 11
 Internet Explorer is now obsolete. It may also be worth mentioning that the keyframes animation on the index.html page is extremely laggy when using
 Internet Explorer, however as previously stated, this is mostly an obsolete browser.
 
-It is worth mentioning that the Quizzical favicon image displays within the browser's tab for all HTML pages.
+It is worth mentioning that the ArchiQuiz favicon image displays within the browser's tab for all HTML pages.
 
 ---
 
 ## :heavy_check_mark: **CODE VALIDATION** <a name="validation"></a>
 
-Quizzical's code has been tested via the [W3C Markup Validation Service](https://validator.w3.org/) & [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
+ArchiQuiz's code has been tested via the [W3C Markup Validation Service](https://validator.w3.org/) & [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 A few warnings did flag up:
 
 * questions.html & completed.html both contain empty heading tags.
@@ -170,7 +170,7 @@ Both of these warnings are irrelevant to this particular website because the emp
 
 There were no other reported problems using the HTML & CSS validation services.
 
-Quizzical's CSS code has been tested for irrelevant code using the Chrome Developer Tool 'Coverage'.
+ArchiQuiz's CSS code has been tested for irrelevant code using the Chrome Developer Tool 'Coverage'.
 No irrelevant code currently exists within the style.css file.
 
 ---
@@ -179,16 +179,16 @@ No irrelevant code currently exists within the style.css file.
 
 ### **IMAGE SIZE REDUCTION** <a name="size"></a>
 
-All of Quizzical's images have been run through [Tiny PNG](https://tinypng.com/) to drastically reduce their file size. This will ultimately offer a better user 
+All of ArchiQuiz's images have been run through [Tiny PNG](https://tinypng.com/) to drastically reduce their file size. This will ultimately offer a better user 
 experience due to loading times being cut short.
 
 ### **SPELLING & GRAMMAR** <a name="spell"></a>
 
-All of Quizzical's textual content including this Readme file has been run through [Grammarly](https://www.grammarly.com) to check for any spelling and grammar mistakes.
+All of ArchiQuiz's textual content including this Readme file has been run through [Grammarly](https://www.grammarly.com) to check for any spelling and grammar mistakes.
 
 ### **BUGS** <a name="bugs"></a>
 
-During the creation of the Quizzical website I came across one rather troublesome bug. The JavaScript timer counted down perfectly but when it moved onto the next question,
+During the creation of the ArchiQuiz website I came across one rather troublesome bug. The JavaScript timer counted down perfectly but when it moved onto the next question,
 the timer reduced by two instead of one. When the next question was populated, the timer reduced by three, and so on... After much deliberation and strenuous testing, it was
 discovered that setInterval was being called every time a new question was generated. setInterval("countDown()", 1000); should have only been called once, not several times.
 Because setInterval is set to 1000ms, every time it was called, it added an extra 1000ms to the interval. The additional setInterval code was removed and the timer worked as expected.
