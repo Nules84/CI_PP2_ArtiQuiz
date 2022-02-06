@@ -55,9 +55,9 @@ ArchiQuiz was created with this in mind; for friends and family to gather togeth
 
 ## :computer: **LIVE DEMO** <a name="live-demo"></a>
 
-Please feel free to delve into a demo of Quizzical's website.
+Please feel free to delve into a demo of ArchiQuiz's website.
 
-You can live demo Quizzical's website here: 
+You can live demo ArchiQuiz's website here: 
 
 
 ## :sparkles: **UX** <a name="ux"></a>
@@ -65,10 +65,10 @@ You can live demo Quizzical's website here:
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
 
-Quizzical, as previously stated, is a general knowledge-based quiz game that's sole purpose is to not only provide a fun, exciting, memorable experience for
+ArchiQuiz, as previously stated, is a general knowledge-based quiz game that's sole purpose is to not only provide a fun, exciting, memorable experience for
 both adults and children alike, but to teach and broaden people's horizons. The hope is that people can walk away feeling like they've learnt something new. 
-Quizzical also has a competitive side to it, friends and family can compete to place their name at the top of Quizzical's leaderboard. Do you have what it takes?
-Carry on below and read some of Quizzical's user stories to get a feel for what people have been saying about Quizzical.
+ArchiQuiz also has a competitive side to it, friends and family can compete to place their name at the top of ArchiQuiz's leaderboard. Do you have what it takes?
+Carry on below and read some of ArchiQuiz's user stories to get a feel for what people have been saying about ArchiQuiz.
 
 ---
 
