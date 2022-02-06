@@ -429,7 +429,7 @@ Various websites were used for ArchiQuiz's website to become what it is today. A
 
 ### **CONTENT** <a name="content"></a>
 
-* ArchiQuizl's logos were created and designed by [Nuala King](###################) - ArchiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
+* ArchiQuiz's logos were created and designed by [Nuala King](###################) - ArchiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
 * Some textual content on the ArchiQuiz website was written by [Nuala King](#####################) - ArchiQuiz's Full Stack Web Developer.
 * Although not copied exactly, it's worth mentioning that [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) was a great help during the JavaScript coding for ArchiQuiz's website. Please see Acknowledgements below.
 
