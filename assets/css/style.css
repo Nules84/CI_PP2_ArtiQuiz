@@ -115,12 +115,12 @@ main {
 }
 
 .correct {
-    background-color: #037403;
+    background-color: #554134;
     color: #FFFFFF;
 }
 
 .incorrect {
-    background-color: #B61E1E;
+    background-color: #DAD9D6;
     color: #FFFFFF;
 }
 
