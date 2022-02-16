@@ -48,7 +48,7 @@ const totalQuests = 10;
 // Answers are assigned index so they appear on screen in order generated.
 // Please see acknowledgements section of README.md file.
 
-fetch("https://opentdb.com/api.php?amount=10&category=25&difficulty=easy&type=multiple")
+fetch("https://opentdb.com/api.php?amount=10&category=25&difficulty=easy&type=multiple&encode=url3986")
     .then(function (res) {
         return res.json();
     })
