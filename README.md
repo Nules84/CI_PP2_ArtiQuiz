@@ -3,13 +3,13 @@
 # **Artiquiz
 ** <a name="top"></a>
 
-ArtiQuiz is a fun, exciting, general knowledge-based quiz game. The ArtiQuiz website's main goal is to provide the user with a pleasurable experience,
+ArtiQuiz is a fun, exciting, general knowledge-based quiz game. The ArtiQuizwebsite's main goal is to provide the user with a pleasurable experience,
 one that's memorable and has great replay value. ArtiQuiz is also intended to teach and educate users. It is hoped that people will walk away feeling
 like they've learnt something. ArtiQuiz is aimed at both adults and children alike.
 
-The idea for ArchiQuiz first originated from a group of friends gathering together every weekend to compete in a quiz night, hosted over [Zoom](https://zoom.us/),
+The idea for ArtiQuiz first originated from a group of friends gathering together every weekend to compete in a quiz night, hosted over [Zoom](https://zoom.us/),
 during the Covid-19 lockdown. Each weekend, someone would create their own quiz, and each friend would battle it out to try and win the chance to host the next quiz.
-ArchiQuiz was created with this in mind; for friends and family to gather together and have fun during tough times.
+ArtiQuiz was created with this in mind; for friends and family to gather together and have fun during tough times.
 
 ---
 
@@ -55,9 +55,9 @@ ArchiQuiz was created with this in mind; for friends and family to gather togeth
 
 ## :computer: **LIVE DEMO** <a name="live-demo"></a>
 
-Please feel free to delve into a demo of ArchiQuiz's website.
+Please feel free to delve into a demo of ArtiQuiz's website.
 
-You can live demo ArchiQuiz's website here: 
+You can live demo ArtiQuiz's website here: 
 
 
 ## :sparkles: **UX** <a name="ux"></a>
@@ -65,10 +65,10 @@ You can live demo ArchiQuiz's website here:
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
 
-ArchiQuiz, as previously stated, is a general knowledge-based quiz game that's sole purpose is to not only provide a fun, exciting, memorable experience for
+ArtiQuiz, as previously stated, is a general knowledge-based quiz game that's sole purpose is to not only provide a fun, exciting, memorable experience for
 both adults and children alike, but to teach and broaden people's horizons. The hope is that people can walk away feeling like they've learnt something new. 
-ArchiQuiz also has a competitive side to it, friends and family can compete to place their name at the top of ArchiQuiz's leaderboard. Do you have what it takes?
-Carry on below and read some of ArchiQuiz's user stories to get a feel for what people have been saying about ArchiQuiz.
+ArtiQuiz also has a competitive side to it, friends and family can compete to place their name at the top of ArtiQuiz's leaderboard. Do you have what it takes?
+Carry on below and read some of ArtiQuiz's user stories to get a feel for what people have been saying about ArtiQuiz.
 
 ---
 
@@ -96,8 +96,8 @@ Carry on below and read some of ArchiQuiz's user stories to get a feel for what 
 
 ### **STRATEGY** <a name="strategy"></a>
 
-The strategy of the ArchiQuiz website is to entertain and educate users. Our long term ambition is that ArchiQuiz hopes to move into an e-commerce situation 
-where the product is licenced and the product is part of an expanded range. ArchiQuiz hopes to have multiple categories ranging from movie trivia, sports, 
+The strategy of the ArtiQuiz website is to entertain and educate users. Our long term ambition is that ArtiQuiz hopes to move into an e-commerce situation 
+where the product is licenced and the product is part of an expanded range. ArtiQuiz hopes to have multiple categories ranging from movie trivia, sports, 
 history, and even geography! It is expected, that within a period, a cloud based storage system will be put in place to further improve the playability and 
 replay value. Another long term strategy is that we hope to offer the public the ability to add their own questions and ultimately host our own API.
 
@@ -105,7 +105,7 @@ replay value. Another long term strategy is that we hope to offer the public the
 
 ### **SCOPE** <a name="scope"></a>
 
-The scope of ArchiQuiz is to provide a flawless user experience straight from the get-go. We want users to be highly entertained in a socially competitive
+The scope of ArtiQuiz is to provide a flawless user experience straight from the get-go. We want users to be highly entertained in a socially competitive
 environment whilst absorbing information they may not have encountered before. Ultimately we want users to return time and time again, not only climb the
 leaderboard and show off their new-found knowledge, but to learn something new every time.
 
@@ -113,9 +113,9 @@ leaderboard and show off their new-found knowledge, but to learn something new e
 
 ### **STRUCTURE** <a name="structure"></a>
 
-Each page will have a ArchiQuiz logo situated at the top of the screen, whether it's in the middle, or located to the left. Each page will have an identical
+Each page will have a ArtiQuiz logo situated at the top of the screen, whether it's in the middle, or located to the left. Each page will have an identical
 footer which contains copyright information and a link to the developer's LinkedIn profile. There are four pages in total, the Home page, Questions page, 
-Completed page and Leaderboard page. The home page is fairly basic and offers only what the user needs to know. It contains ArchiQuiz's main logo image, 
+Completed page and Leaderboard page. The home page is fairly basic and offers only what the user needs to know. It contains ArtiQuiz's main logo image, 
 a few lines of text, two navigation buttons, and a footer.
 
 On the questions page, all questions will be displayed within one HTML page which will be randomly generated by the [Open Trivia Database](https://opentdb.com/) API. 
@@ -125,7 +125,7 @@ These will all update automatically with the use of JavaScript as the user compl
 button which users can click to return to the Home page. 
 
 The Completed page has large text indicating that the quiz has been completed. There is a name field and a save button below so that users can save their scores and 
-upload them to the leaderboard. There are also a number of buttons that will navigate to the different pages of the ArchiQuiz website. Finally, the leaderboard will 
+upload them to the leaderboard. There are also a number of buttons that will navigate to the different pages of the ArtiQuizz website. Finally, the leaderboard will 
 have a main title. The rest of the page will Initially display bare. As users upload their scores, a table will appear and populate user's names and their scores. The
 leaderboard page also contains a "Return to Home" button.
 
@@ -133,7 +133,7 @@ leaderboard page also contains a "Return to Home" button.
 
 ### **SKELETON** <a name="skeleton"></a>
 
-ArchiQuiz's website started on a piece of paper. Sketches were drawn out and a decent design was soon ready to leap into the digital world.
+ArtiQuiz's website started on a piece of paper. Sketches were drawn out and a decent design was soon ready to leap into the digital world.
 Below you shall find some images of the original sketches used to help develop this project.
 
 #### *Sketches* <a name="sketches"></a>
@@ -141,7 +141,7 @@ Below you shall find some images of the original sketches used to help develop t
 
 After drawing up the sketches it was time to get them onto the screen. To do this a wireframe was created using Balsamiq Wireframes 4.
 Wireframes are used to display what the creator ultimately envisions the website to look like, roughly! It acts as one of the first stepping stones
-of the journey. Please find below the original Wireframes for ArchiQuiz's project.
+of the journey. Please find below the original Wireframes for ArtiQuiz's project.
 
 #### *Wireframes* <a name="wireframes"></a>
 
@@ -165,7 +165,7 @@ of the journey. Please find below the original Wireframes for ArchiQuiz's projec
 
 Finally with the basics down on paper and screen, it was time to start shaping things up. After wireframes, it's time to take things a little more
 seriously. Enter Adobe XD. Adobe XD is a powerful piece of software designed to assist artists worldwide. More detailed designs are now progressed, 
-and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to ArchiQuiz's Mock-Ups. You can clearly see how the 
+and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to ArtiQuiz's Mock-Ups. You can clearly see how the 
 project has evolved.
 
 * [Home Page Mockup](design/mockups/ms2-mockup-home.png)
@@ -212,10 +212,10 @@ White text is used here because gold/purple text clashed negatively.
 | Custom Red        |#B61E1E
 | White             |#FFFFFF
 
-The images used for ArchiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArchiQuizis a thinking game
+The images used for ArtiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArtiQuiz a thinking game
 therefore users must use their brains. The bright lights located above the letters "i" within the logo represent a illuminated light bulb; this conveys thinking.
 
- * The font used throughout ArchiQuiz's website is Google font's Amarante - [Google Fonts' - Amarante](https://fonts.google.com/specimen/Amarante?query=Amarante).
+ * The font used throughout ArtiQuiz's website is Google font's Amarante - [Google Fonts' - Amarante](https://fonts.google.com/specimen/Amarante?query=Amarante).
 
  * If at any point a browser cannot support the Amarante font, the browser will fall back on Roboto - [Google Fonts' - Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
 
@@ -236,15 +236,15 @@ is disabled. The "Save Score" button has been disabled to prevent users from bei
 entered their name, the "Save Score" button becomes available to click. 
 
 * Below the "Save Score" button there are three more buttons, "Play Again", "View Leaderboard", and "Return to Home". The "Play Again" button will instantly direct the user to 
-a new game of Archiquiz. The "View Leaderboard" button will direct the user to view the Leaderboard page of Archiquiz's website. Finally, the "Return to Home" button will take 
-the user back to Archiquiz's Home page. 
+a new game of ArtiQuizz. The "View Leaderboard" button will direct the user to view the Leaderboard page of ArtiQuiz's website. Finally, the "Return to Home" button will take 
+the user back to ArtiQuiz's Home page. 
 
-* To summarise, no matter where the user is within Archiquiz's website, they shouldn't have any problem navigating themselves around.
+* To summarise, no matter where the user is within ArtiQuiz's website, they shouldn't have any problem navigating themselves around.
 Each button has the box-shadow hover effect. This will highlight each button to make them glow gold. 
 
 ### **HOME PAGE** <a name="home"></a>
 
-* The Home page displays a custom made Archiquiz logo image developed using Adobe XD. 
+* The Home page displays a custom made ArtiQuiz logo image developed using Adobe XD. 
 
 * The logo image features keyframes animation. The logo will increase in size from 80% to 100% over a period of four seconds.
 
@@ -262,13 +262,13 @@ It essentially makes the buttons glow gold when they're interacted with.
 little vertical screen space is taken up. Similarly, this logo image was developed using Adobe XD. 
 
 * The first thing you should notice are the questions displayed on the Questions page. The questions themselves are displayed in a large font in gold text against a purple 
-background, keeping to the theme of the Archiquiz website.
+background, keeping to the theme of the ArtiQuiz website.
 
 * Below the question, the user will be presented with four possible answers, each resembling a clickable button, much like those discovered on the Home page. When a user 
 hovers their mouse over an answer button, the button will have a box-shadow effect. 
 
 * Below the answer buttons, there is a progress bar. The progress bar is a visual interpretation of how far through the user is in their game. As a user progresses through 
-the game, the progress bar will fill. There are ten questions within the Archiquiz game therefore the progress bar will fill ten per cent every time a question is answered. 
+the game, the progress bar will fill. There are ten questions within the ArtiQuiz game therefore the progress bar will fill ten per cent every time a question is answered. 
 The progress bar has a gold border and a purple background, it fills with gold as the game progresses, keeping to the theme of the website. 
 
 * South of the progress bar, the user is presented with three vital pieces of information.
@@ -279,7 +279,7 @@ The progress bar has a gold border and a purple background, it fills with gold a
     answer a question in time, points will be deducted and the next question will be populated. 
 
     3. Score Tally. Users will be awarded ten points (10) for each correct answer but three points (3) shall be deducted for any incorrect answer. This will be automatically 
-    updated with JavaScript code as the game is played. The point system is a key feature of the Archiquiz website. It enables key replay value and competitiveness. 
+    updated with JavaScript code as the game is played. The point system is a key feature of the ArtiQuiz website. It enables key replay value and competitiveness. 
     
 * When a question is answered, the button clicked will briefly change colour to either green or red, depending on whether the question was answered correctly or incorrectly. 
 The text also changes to white momentarily. 
@@ -298,7 +298,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 to the user with a message of congratulations. 
 
 * Below the awarded points and congratulations message, the user is presented with an "Enter Name" field, this field allows a user to enter their name so that 
-they can ultimately save their awarded score onto the Archiquiz leaderboard. 
+they can ultimately save their awarded score onto the ArtiQuiz leaderboard. 
 
 * Below is a "Save Score" button, as mentioned in the Navigation section of this document. Below are three navigation buttons which allow the user to navigate wherever they wish to go, 
 whether it be to "Play Again", "View Leaderboard", or "Return to Home". Each of these buttons are mentioned in the navigation section of this document. Each button has the box-shadow hover effect.
@@ -308,10 +308,10 @@ whether it be to "Play Again", "View Leaderboard", or "Return to Home". Each of 
  * The leaderboard page logo is situated to the top left-hand side of the screen, similar to the Questions page. This image uses more width, rather than height, so that
 little vertical screen space is taken up. 
 
-* The Leaderboard page is one key element which provides the user with great replay value. The goal of ArchiQuiz's 
+* The Leaderboard page is one key element which provides the user with great replay value. The goal of ArtiQuiz's 
 leaderboard is to offer the user the chance to compete against family and friends and place their name at the top of the board. 
 
-* Each score will be mathematically decided, sorted, and displayed within an attractive table keeping to the same theme as the rest of ArchiQuiz's website. Initially, there will be no 
+* Each score will be mathematically decided, sorted, and displayed within an attractive table keeping to the same theme as the rest of ArtiQuiz's website. Initially, there will be no 
 table to display, but as users start to complete the quiz and upload their score to local storage, the leaderboard table will begin to populate information. The information that is held 
 and displayed will be the users name and score only. 
 
@@ -320,15 +320,15 @@ Leaderboard page.
 
 ### **OTHER FEATURES** <a name="other-feat"></a>
 
- * ArchiQuiz's website has a favicon image which displays in a user's web browser tab. The image is a small purple square with a gold coloured "Q" within it.
- This favicon image keeps to the ArchiQuiz's colour theme, and also the font used throughout the whole website. This has been added for improved UX.
+ * ArtiQuiz's website has a favicon image which displays in a user's web browser tab. The image is a small purple square with a gold coloured "Q" within it.
+ This favicon image keeps to the ArtiQuiz's colour theme, and also the font used throughout the whole website. This has been added for improved UX.
 
 ---
 
  ## :pencil2: **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
 
  * Currently, there is no way for users to save their score on a device and then access their score on another device. Currently, scores are saved on local storage, therefore
- they cannot be accessed anywhere other than the device they originated from. This means that each device ArchiQuiz is played on will have a completely different leaderboard.
+ they cannot be accessed anywhere other than the device they originated from. This means that each device ArtiQuiz is played on will have a completely different leaderboard.
  In the future, cloud storage will be implemented so that players from different households/friendship groups will be able to compete against each other, rather than the current
  situation where people are limited to one device.
 
@@ -344,11 +344,11 @@ Leaderboard page.
 
 1. [HTML](https://html.spec.whatwg.org/multipage/)
 
-    * The building blocks to everything that is code! Used to create the foundations of ArchiQuiz's website.
+    * The building blocks to everything that is code! Used to create the foundations of ArtiQuiz's website.
 
 2. [CSS](https://www.w3.org/Style/CSS/)
 
-    * Who's got style? Used to style ArchiQuiz's HTML code.
+    * Who's got style? Used to style ArtiQuiz's HTML code.
 
 3. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -361,23 +361,23 @@ Leaderboard page.
 
 5. [Font Awesome](https://fontawesome.com/start)
 
-    * Used to provide quality icons for ArchiQuiz's footer.
+    * Used to provide quality icons for ArtiQuiz's footer.
     
 6. [Google Fonts](https://fonts.google.com/)
 
-    * Used to change the font throughout ArchiQuiz's whole website.
+    * Used to change the font throughout ArtiQuiz's whole website.
 
 7. [Balsamiq Wireframes 4](https://balsamiq.com/)
 
-    * Used to create ArchiQuiz's Wireframes.
+    * Used to create ArtiQuizs Wireframes.
 
 8. [Adobe XD](https://www.adobe.com/uk/products/xd.html)
 
-    * Used to create ArchiQuiz's logos and Mock Ups.
+    * Used to create ArtiQuiz's logos and Mock Ups.
 
 9. [Open Trivia Database](https://opentdb.com/)
 
-    * Used free API to generate random questions for ArchiQuiz's website.
+    * Used free API to generate random questions for ArtiQuiz's website.
 
 9.
 
@@ -401,13 +401,13 @@ Here you shall find a separate markdown file as well as a more visual PDF file c
 ### **CONFIGURE GITHUB PAGES** <a name="pages"></a>
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, 
-and publishes a website. ArchiQuiz's website has been successfully hosted by GitHub Pages by following these processes:
+and publishes a website. ArtiQuiz's website has been successfully hosted by GitHub Pages by following these processes:
 
 1. Navigate to the Github remote repository: 
 2. Click on Settings.
 3. Scroll down to the GitHub Pages section.
 4. Locate Source's dropdown menu and select 'Master Branch'.
-5. After a short period of time, a link will become available above. ArchiQuiz's link is:
+5. After a short period of time, a link will become available above. ArtiQuiz's link is:
 
 *Please note that it can take up to 20 minutes for this process to complete.*
 
@@ -425,13 +425,13 @@ and publishes a website. ArchiQuiz's website has been successfully hosted by Git
 
 ## :clapper: **CREDITS** <a name="credits"></a>
 
-Various websites were used for ArchiQuiz's website to become what it is today. All content displayed is part of the public domain.
+Various websites were used for ArtiQuiz's website to become what it is today. All content displayed is part of the public domain.
 
 ### **CONTENT** <a name="content"></a>
 
-* ArchiQuiz's logos were created and designed by [Nuala King](###################) - ArchiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
-* Some textual content on the ArchiQuiz website was written by [Nuala King](#####################) - ArchiQuiz's Full Stack Web Developer.
-* Although not copied exactly, it's worth mentioning that [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) was a great help during the JavaScript coding for ArchiQuiz's website. Please see Acknowledgements below.
+* ArtiQuiz's logos were created and designed by [Nuala King](###################) - ArtiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
+* Some textual content on the ArtiQuiz website was written by [Nuala King](#####################) - ArtiQuiz's Full Stack Web Developer.
+* Although not copied exactly, it's worth mentioning that [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) was a great help during the JavaScript coding for ArtiQuiz's website. Please see Acknowledgements below.
 
 ### **MEDIA** <a name="media"></a>
 
@@ -446,7 +446,7 @@ Various websites were used for ArchiQuiz's website to become what it is today. A
 
 ### **ACKNOWLEDGEMENTS** <a name="thanks"></a>
 
-Inspiration was used in various locations across the world wide web. Please see below some of the key sources used to help develop ArchiQuiz.
+Inspiration was used in various locations across the world wide web. Please see below some of the key sources used to help develop ArtiQuiz.
 
 * JavaScript - [James Q Quick - Youtube](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) | [James Q Quick - Github](https://github.com/jamesqquick)
 
