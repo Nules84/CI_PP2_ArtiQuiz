@@ -1,6 +1,6 @@
 
 
-# **ArchiQuiz
+# **Artiquiz
 ** <a name="top"></a>
 
 ArchiQuiz is a fun, exciting, general knowledge-based quiz game. The ArchiQuiz website's main goal is to provide the user with a pleasurable experience,
