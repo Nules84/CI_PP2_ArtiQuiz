@@ -3,9 +3,9 @@
 # **Artiquiz
 ** <a name="top"></a>
 
-ArchiQuiz is a fun, exciting, general knowledge-based quiz game. The ArchiQuiz website's main goal is to provide the user with a pleasurable experience,
-one that's memorable and has great replay value. ArchiQuiz is also intended to teach and educate users. It is hoped that people will walk away feeling
-like they've learnt something. ArchiQuiz is aimed at both adults and children alike.
+ArtiQuiz is a fun, exciting, general knowledge-based quiz game. The ArtiQuiz website's main goal is to provide the user with a pleasurable experience,
+one that's memorable and has great replay value. ArtiQuiz is also intended to teach and educate users. It is hoped that people will walk away feeling
+like they've learnt something. ArtiQuiz is aimed at both adults and children alike.
 
 The idea for ArchiQuiz first originated from a group of friends gathering together every weekend to compete in a quiz night, hosted over [Zoom](https://zoom.us/),
 during the Covid-19 lockdown. Each weekend, someone would create their own quiz, and each friend would battle it out to try and win the chance to host the next quiz.
