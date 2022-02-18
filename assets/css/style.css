@@ -7,18 +7,14 @@
 
 #DA6F65 darker pink
 #EDA29C pink
-7:19
 #414149 charcoal
-7:19
 #575958 dark grey
-7:20
 #A4A6B2 grey
-7:21
 #E2DDD9 light grey
 
 /*-I've added min-height, display flex, flex direction and flex 1 to push my footer to the bottom of the screen-*/
 body,html {
-    background-color: #9e7f64;
+    background-color: #DA6F65;
     text-align: center;
     font-family: 'Amarante', 'Roboto', sans-serif;
     color: #c7a484;
@@ -71,8 +67,8 @@ main {
 
 .btn {
   font-size: 2.75vh;
-  color: #9e7f64;
-  background-color: #CA9E65;
+  color: #A4A6B2;
+  background-color: #575958;
   border-radius: 2rem;
 }
 
