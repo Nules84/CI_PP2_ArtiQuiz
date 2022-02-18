@@ -2,24 +2,19 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap:100,200,300,400,500,600,700');
 
 /* -- All Pages -- */
-#8a796b
-#eae4dc
-#ebe5db
-#efeae2
-#775d4a
-#554134
-#9e7f64
-#614a3b
-#b9997e
-#b08d6f
-#cba98b
-#cba98b
-#dbd9d6
-#7a695e
-#c5a58a
-#9f9f97
-#dad9d6
-#c7a484
+#C16540 - terracotta
+
+
+#DA6F65 darker pink
+#EDA29C pink
+7:19
+#414149 charcoal
+7:19
+#575958 dark grey
+7:20
+#A4A6B2 grey
+7:21
+#E2DDD9 light grey
 
 /*-I've added min-height, display flex, flex direction and flex 1 to push my footer to the bottom of the screen-*/
 body,html {
