@@ -9,12 +9,12 @@
 #EDA29C pink
 #414149 charcoal
 #575958 dark grey
-#A4A6B2 grey
+#C16540 grey
 #E2DDD9 light grey
 
 /*-I've added min-height, display flex, flex direction and flex 1 to push my footer to the bottom of the screen-*/
 body,html {
-    background-color: #DA6F65;
+    background-color: #C16540;
     text-align: center;
     font-family: 'Amarante', 'Roboto', sans-serif;
     color: #c7a484;
@@ -67,15 +67,15 @@ main {
 
 .btn {
   font-size: 2.75vh;
-  color: #A4A6B2;
-  background-color: #575958;
+  color: #C16540;
+  background-color: #EDA29C;
   border-radius: 2rem;
 }
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.35rem 1.35rem 0 rgba(203, 158, 101, 0.8);
-    color: #9e7f64;
+    box-shadow: #414149;
+    color: ##C16540;
 }
 
 /* -- Questions -- */
@@ -87,7 +87,7 @@ main {
 .question-container {
     font-size: 2.25vh;
     color: #9e7f64;
-    background-color: #CA9E65;
+    background-color: #C16540;
     border-radius: 2rem;
 }
 
@@ -106,13 +106,13 @@ main {
 }
 
 .correct {
-    background-color: #554134;
-    color: #FFFFFF;
+    background-color: #C16540;
+    color: #C16540;
 }
 
 .incorrect {
     background-color: #DAD9D6;
-    color: #FFFFFF;
+    color: #C16540;
 }
 
 .detail-feature h1 {
