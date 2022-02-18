@@ -74,7 +74,7 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 ### **USER STORIES** <a name="stories"></a>
 
->   Bright attractive colours are needed. My favourite colours are purple and gold. - Lindsay W
+>   Bright attractive colours are needed. My favourite colours are teracotta and grey. - Lindsay W
 
 >   Need an attractive logo which really captures the eye. - Diane W
 
