@@ -1,7 +1,7 @@
 
 
-# **Artiquiz
-** <a name="top"></a>
+# Artiquiz
+<a name="top"></a>
 
 ArtiQuiz is a fun, exciting, general knowledge-based quiz game. The ArtiQuizwebsite's main goal is to provide the user with a pleasurable experience,
 one that's memorable and has great replay value. ArtiQuiz is also intended to teach and educate users. It is hoped that people will walk away feeling
