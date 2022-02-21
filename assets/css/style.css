@@ -1,23 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Amarante&display=swap:100,200,300,400,500,600,700');
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 /* -- All Pages -- */
-#C16540 - terracotta
-
-
-#DA6F65 darker pink
-#EDA29C pink
-#414149 charcoal
-#575958 dark grey
-#C16540 grey
-#E2DDD9 light grey
+:root {
+    --warhol-blue: #35a0ae;
+    --forest-green: #175c4c;
+    --darker-pink: #da6f65;
+    --pink: #eda29c;
+    --light-pink: #eedbcd;
+    --charcoal: #414149;
+    --grey: #E2DDD9;
+    --white: #FFFFFF;
+}
 
 /*-I've added min-height, display flex, flex direction and flex 1 to push my footer to the bottom of the screen-*/
 body,html {
-    background-color: #C16540;
+    background-color: #eedbcd;
     text-align: center;
     font-family: 'Amarante', 'Roboto', sans-serif;
-    color: #c7a484;
+    color: #175c4c;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
