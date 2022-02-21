@@ -214,7 +214,7 @@ button[disabled]:hover {
 }
 
 .footer p a {
-    color: #CA9E65;
+    color: var(--darker-pink);
 }
 
 .footer p a:hover {
