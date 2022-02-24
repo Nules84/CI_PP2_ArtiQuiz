@@ -68,27 +68,29 @@ main {
 
 .btn {
   font-size: 2.75vh;
-  color: #C16540;
-  background-color: #EDA29C;
+  color: var(--darker-pink);
+  background-color: var(--pink);
   border-radius: 2rem;
 }
 
 .btn:hover {
     cursor: pointer;
     box-shadow: #414149;
-    color: ##C16540;
+    color: var(--darker-pink);
 }
 
 /* -- Questions -- */
 
 .page-logo {
     float: left;
+    height: 15rem;
+    width: 15rem;
 }
 
 .question-container {
     font-size: 2.25vh;
-    color: #9e7f64;
-    background-color: #C16540;
+    color: var(--light-pink);
+    background-color: var(--darker-pink);
     border-radius: 2rem;
 }
 
