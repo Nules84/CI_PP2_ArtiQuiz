@@ -2,6 +2,7 @@
 
 # Artiquiz
 <a name="top"></a>
+![image](assets/images/am_i_responsive.JPG)
 
 ArtiQuiz is a fun, exciting, Art-based quiz game. The ArtiQuiz website's main goal is to provide the user with a pleasurable experience,
 one that's memorable and has great replay value. ArtiQuiz is also intended to teach and educate users. It is hoped that people will walk away feeling
