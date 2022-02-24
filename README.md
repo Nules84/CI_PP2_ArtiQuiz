@@ -1,7 +1,8 @@
 
 
 # Artiquiz
-<a name="top"></a>
+<a name="top">Developer: Nuala Gallagher King</a>
+
 ![image](assets/images/am_i_responsive.JPG)
 
 ArtiQuiz is a fun, exciting, Art-based quiz game. The ArtiQuiz website's main goal is to provide the user with a pleasurable experience,
