@@ -74,11 +74,11 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 ### **USER STORIES** <a name="stories"></a>
 
->   Bright attractive colours are needed. My favourite colours are teracotta and grey. - Lindsay W
+>   Bright attractive colours are needed. My favourite artist is Andy Warhol for the pink and aquamarine pops!. - Lindsay W
 
 >   Need an attractive logo which really captures the eye. - Diane W
 
->   A font which isn't seen every day should be used to make the website more unique. - Elliot R
+>   I want to test test my Art knowledge in a fun way. - Elliot R
 
 >   Randomly generated questions/answers are a must have! - Abi C
 
