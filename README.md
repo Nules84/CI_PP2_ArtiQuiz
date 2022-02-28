@@ -165,8 +165,8 @@ This was chosen because of the colours' positive vibe and feel-good effect. Here
 
 | **Colour Name**   | **Colour RGB Code**    
 | -------------     |:-------------:| 
-| Purple            |#800080
-| Custom Gold       |#CA9E65
+|Pink            |
+| Blue           |
 
 There are two more colours which are less frequent, they are the colours which appear when a user has answered a question correctly or incorrectly. 
 When a user clicks an answer button, that button will briefly change colour to indicate whether or not they were successful in answering. Here are the chosen colours:
@@ -177,9 +177,9 @@ White text is used here because gold/purple text clashed negatively.
 
 | **Colour Name**   | **Colour RGB Code**    
 | -------------     |:-------------:| 
-| Custom Green      |#037403
-| Custom Red        |#B61E1E
-| White             |#FFFFFF
+| Custom       |
+| Custom         |*
+| White             |
 
 The images used for ArtiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArtiQuiz a thinking game
 therefore users must use their brains. The bright lights located above the letters "i" within the logo represent a illuminated light bulb; this conveys thinking.
