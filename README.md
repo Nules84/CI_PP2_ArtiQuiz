@@ -145,21 +145,6 @@ of the journey. Please find below the original Wireframes for ArtiQuiz's project
 
 #### *Wireframes* <a name="wireframes"></a>
 
-* [Home Page Wireframe](design/wireframes/ms2-wireframe-home.png)
-
-* [Questions Page Wireframe](design/wireframes/ms2-wireframe-questions.png)
-
-* [Completed Page Wireframe](design/wireframes/ms2-wireframe-completed.png)
-
-* [Leaderboard Page Wireframe](design/wireframes/ms2-wireframe-leaderboard.png)
-
-* [Mobile Home Page Wireframe](design/wireframes/ms2-mobile-wireframe-home.png)
-
-* [Mobile Questions Page Wireframe](design/wireframes/ms2-mobile-wireframe-questions.png)
-
-* [Mobile Completed Page Wireframe](design/wireframes/ms2-mobile-wireframe-completed.png)
-
-* [Mobile Leaderboard Page Wireframe](design/wireframes/ms2-mobile-wireframe-leaderboard.png)
 
 #### *Mock Ups* <a name="mockups"></a>
 
