@@ -153,22 +153,6 @@ seriously. Enter Adobe XD. Adobe XD is a powerful piece of software designed to 
 and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to ArtiQuiz's Mock-Ups. You can clearly see how the 
 project has evolved.
 
-* [Home Page Mockup](design/mockups/ms2-mockup-home.png)
-
-* [Questions Page Mockup](design/mockups/ms2-mockup-questions.png)
-
-* [Completed Page Mockup](design/mockups/ms2-mockup-completed.png)
-
-* [Leaderboard Page Mockup](design/mockups/ms2-mockup-leaderboard.png)
-
-* [Mobile Home Page Mockup](design/mockups/ms2-mobile-mockup-home.png)
-
-* [Mobile Questions Page Mockup](design/mockups/ms2-mobile-mockup-questions.png)
-
-* [Mobile Completed Page Mockup](design/mockups/ms2-mobile-mockup-completed.png)
-
-* [Mobile Leaderboard Page Mockup](design/mockups/ms2-mobile-mockup-leaderboard.png)
-
 ---
 
 ### **SURFACE** <a name="surface"></a>
