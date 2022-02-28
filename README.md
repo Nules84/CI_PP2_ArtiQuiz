@@ -57,11 +57,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-## :computer: **LIVE DEMO** <a name="live-demo"></a>
-
-Please feel free to delve into a demo of ArtiQuiz's website.
-
-You can live demo ArtiQuiz's website here: 
+## :computer: **LIVE DEMO** <a name="live-demo"></a>000
 
 
 ## :sparkles: **UX** <a name="ux"></a>
@@ -70,7 +66,7 @@ The user experience (UX) is what a user of a particular product experiences when
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
 
 ArtiQuiz, as previously stated, is a general knowledge-based quiz game that's sole purpose is to not only provide a fun, exciting, memorable experience for
-both adults and children alike, but to teach and broaden people's horizons. The hope is that people can walk away feeling like they've learnt something new. 
+users, but to teach the user more about the Arts*. The hope is that people can walk away feeling like they've learnt something new. 
 ArtiQuiz also has a competitive side to it, friends and family can compete to place their name at the top of ArtiQuiz's leaderboard. Do you have what it takes?
 Carry on below and read some of ArtiQuiz's user stories to get a feel for what people have been saying about ArtiQuiz.
 
