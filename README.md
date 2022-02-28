@@ -184,9 +184,9 @@ White text is used here because gold/purple text clashed negatively.
 The images used for ArtiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArtiQuiz a thinking game
 therefore users must use their brains. The bright lights located above the letters "i" within the logo represent a illuminated light bulb; this conveys thinking.
 
- * The font used throughout ArtiQuiz's website is Google font's Amarante - [Google Fonts' - Amarante](https://fonts.google.com/specimen/Amarante?query=Amarante).
+ * The font used throughout ArtiQuiz's website is Google font's ##########################.
 
- * If at any point a browser cannot support the Amarante font, the browser will fall back on Roboto - [Google Fonts' - Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
+ * If at any point a browser cannot support the Amarante font, the browser will fall back on ################.
 
 ---
 
