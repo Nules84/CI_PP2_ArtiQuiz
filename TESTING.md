@@ -3,11 +3,6 @@
 # **ArtiQuiz TESTING** <a name="top"></a>
 
 Within this markdown file, you shall find extensive test analysis and reporting for the ArtiQuiz website.
-This has been added in a separate file for its readability and user-friendly approach. You can return
-to ArtiQuiz's main readme file here: [README.md]####################.
-
-You can also find an Excel spreadsheet (saved as PDF) containing extensive test analysis and reporting. This spreadsheet is intended to provide a more visual report.
-You can find a link to the Excel (PDF) report here: [ArtiQuiz Testing PDF]################.
 
 ---
 
