@@ -29,7 +29,7 @@ fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
     })
 
     .then(function (loadedQuest) {
-        artiquests = loadedQuest.results.map(function (loadedQuest) {
+        quizQuests = loadedQuest.results.map(function (loadedQuest) {
             const convertedQuest = {
                 question: loadedQuest.question,
             };
