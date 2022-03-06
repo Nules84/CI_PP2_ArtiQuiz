@@ -318,6 +318,9 @@ Various websites were used for ArtiQuiz's website to become what it is today. Al
 * Some textual content on the ArtiQuiz website was written by [Nuala King](#####################) - ArtiQuiz's Full Stack Web Developer.
 * Although not copied exactly, it's worth mentioning that [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) was a great help during the JavaScript coding for ArtiQuiz's website. Please see Acknowledgements below.
 
+* Structure and inspiration -[WebSlinger88Code Institute](https://github.com/WebSlinger88/Quizzical.git)
+This inspirational website was composed by WebSlinger88 which in turn was inspired by tutorials compiled by James Q Quick as mentioned in acknowlegements section.
+
 ### **MEDIA** <a name="media"></a>
 
 * Imagery:
@@ -337,9 +340,6 @@ Inspiration was used in various locations across the world wide web. Please see 
 
 * James Q Quick's video tutorials were very helpful during the JavaScript coding process. The Quiz App videos were especially helpful - [Build a Quiz App](https://www.youtube.com/watch?v=u98ROZjBWy8).
     Code has not been copied exactly. There are similarities to be found. Please make note of this. James Q Quick does deserve credit.
-
-* Structure and inspiration -[WebSlinger88Code Institute](https://github.com/WebSlinger88/Quizzical.git)
-This inspirational website was composed by WebSlinger88 which in turn was inspired by tutorials compiled by James Q Quick as mentioned above.
 
 * Timer - [Muhanad Hasan](https://www.youtube.com/channel/UC1xxTfHbYlFLzjqUIQbA7iQ)
 
