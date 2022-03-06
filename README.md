@@ -37,11 +37,13 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 5. [Technologies](#technologies)
 
-6. [Deployment](#deployment)
+6. [Testing](#lighthouse-reports)
+
+7. [Deployment](#deployment)
     * [Configure Github Pages](#pages)
     * [Cloning Repository](#cloning)
 
-7. [Credits](#credits)
+8. [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
     * [Acknowledgements](#thanks)
@@ -258,6 +260,23 @@ points depending on whether they score a correct answer or an incorrect answer. 
     * Used free API to generate random questions for ArtiQuiz's website.
 
 ---
+
+**TESTING** 
+*Lighthouse Reports
+### Accessibility
+
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home</summary>
+<img src="assets/images/lighthouse_home.JPG">
+</details>
+<details><summary>Questions</summary>
+<img src="assets/images/lighthouse_questions.JPG">
+</details>
+<details><summary>Completed</summary>
+<img src="assets/images/lighthouse_completed.JPG">
+</details>
+
 
 **DEPLOYMENT** <a name="deployment"></a>
 
