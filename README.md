@@ -263,6 +263,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 **TESTING** 
 *Lighthouse Reports
+
 ### Accessibility
 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
