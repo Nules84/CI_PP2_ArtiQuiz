@@ -51,9 +51,7 @@ fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
         gameBegin();
     })
 
-
 /*GAME BEGIN FUNCTION*/
-
 
 function gameBegin() {
     score = 0;
