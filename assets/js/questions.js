@@ -1,153 +1,47 @@
-/*GLOBAL VARIABLES*/
+// name variable holds users name
+// saveScore variable will allow us to enable and disable the Save Score button.
+// endScore variable will display message containing final user's score and additional text in the heading tag on completed.html.
+// newScore variable is the score saved in local storage to be displayed in html page.
+// totalResults variable is the max number of entries allowed on the leaderboard.
+// results variable converts data in local storage from a string to an object. Empty array added to avoid null console log entry.
+const name = document.getElementById("name");
+const saveScore = document.getElementById("saveScore");
+const endScore = document.getElementById("endScore");
+const newScore = localStorage.getItem("newScore");
+const totalResults = 10;
+const results = JSON.parse(localStorage.getItem("results")) || [];
 
-const quizQ = document.getElementById("quiz-question");
-const quizA = Array.from(document.getElementsByClassName("quiz-answer"));
-const tallyQ = document.getElementById("questionTally");
-const tallyS = document.getElementById("scoreTally");
-const currentProg = document.getElementById("progression");
-const loadingSpinner = document.getElementById("loading-spinner");
-const quiz = document.getElementById("quiz");
+// This text will display on completed.html page
+endScore.innerText = "You Scored:" + " " + newScore + "!";
 
-let currentQ = {};
-let answerDelay = false;
-let score = 0;
-let qNum = 0;
-let time = 10;
-let availableQ = [];
-let quizQuests = [];
-
-const correctPoints = 10;
-const incorrectPoints = 3;
-const totalQuests = 10;
-
-/*FETCH API*/
-
-
-fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
-    .then(function (res) {
-        return res.json();
-    })
-
-    .then(function (loadedQuest) {
-        quizQuests = loadedQuest.results.map(function (loadedQuest) {
-            const convertedQuest = {
-                question: loadedQuest.question,
-            };
-
-            const possibleAnswers = [...loadedQuest.incorrect_answers];
-            convertedQuest.answer = Math.floor(Math.random() * 4) + 1;
-            possibleAnswers.splice(
-                convertedQuest.answer - 1,
-                0,
-                loadedQuest.correct_answer
-            );
-
-            possibleAnswers.forEach(function (answer, index) {
-                convertedQuest['answer' + (index + 1)] = answer;
-            });
-            return convertedQuest;
-        });
-
-        gameBegin();
-    })
-
-/*GAME BEGIN FUNCTION*/
-
-function gameBegin() {
-    score = 0;
-    qNum = 0;
-    availableQ = [...artiquests];
-    time = 10;
-    nextQuest();
-    quiz.classList.remove("d-none");
-    loadingSpinner.classList.add("d-none");
-};
-
-/*NEXT QUESTION FUNCTION*/
-
-function nextQuest() {
-
-    if (availableQ.length === 0 || qNum >= totalQuests) {
-        localStorage.setItem("newScore", score);
-        return window.location.assign("completed.html");
-    }
-
-    qNum++;
-    currentProg.style.width = `${((qNum - 1) / totalQuests) * 100}%`;
-    tallyQ.innerHTML = qNum + "/" + totalQuests;
-
-    const qCatalogue = Math.floor(Math.random() * availableQ.length);
-    currentQ = availableQ[qCatalogue];
-    quizQ.innerHTML = currentQ.question;
-
-    quizA.forEach(function (answer) {
-        const number = answer.dataset['number'];
-        answer.innerHTML = currentQ['answer' + number];
-    });
-
-    availableQ.splice(qCatalogue, 1);
-    answerDelay = true;
-
-    countDown();
-};
-
-/*COUNTDOWN TIMER FUNCTION*/
-
-countDown = function () {
-
-    timer.innerHTML = time;
-
-    if (time < 1) {
-        time = 10;
-        nextQuest();
-        decreaseScore(incorrectPoints);
-    }
-    else (time = time - 1)
-}
-
-setInterval("countDown()", 1000);
-
-/*COLOUR CHANGE FUNCTION*/
-
-quizA.forEach(function (answer) {
-    answer.addEventListener("click", function (e) {
-        if (!answerDelay) return;
-        answerDelay = false;
-
-        const chosenAnswer = e.target;
-        const chosenCorrect = chosenAnswer.dataset["number"];
-
-        const colorChange = chosenCorrect == currentQ.answer ? "correct" : "incorrect";
-
-        if (colorChange === "correct") {
-            increaseScore(correctPoints);
-        }
-
-        if (colorChange === "incorrect") {
-            decreaseScore(incorrectPoints);
-        }
-
-        chosenAnswer.parentElement.classList.add(colorChange);
-
-        setTimeout(function () {
-            chosenAnswer.parentElement.classList.remove(colorChange);
-            time = 10;
-            nextQuest();
-        }, 1200);
-    });
+// Code to disable Save Score button when name field is empty. Keyup used to enable button.
+name.addEventListener("keyup", function () {
+    saveScore.disabled = !name.value;
 });
 
-/*INCREASE/DECREASE SCORE FUNCTION*/
+// This function takes the name and score, sorts it, possibly splices it, converts it to a string and saves it to local storage then loads leaderboard
+saveToBoard = function (e) {
+    e.preventDefault();
 
+    const record = {
+        name: name.value,
+        score: newScore
+    };
 
-increaseScore = function (num) {
-    score += num;
-    tallyS.innerText = score;
+    // record values pushed to results variable.
+    results.push(record);
+
+    // Function added that sorts scores. Higher scores will be placed at top of leaderboard.
+    results.sort(function (a, b) {
+        return b.score - a.score;
+    });
+
+    // Splice bottom score if user achieves greater score. Only 10 scores allowed on leaderboard.
+    results.splice(10);
+
+    // Convert results back to a string so they can be saved in local storage.
+    localStorage.setItem("results", JSON.stringify(results));
+
+    // leaderboard.html loaded when Save Score button clicked.
+    window.location.assign("leaderboard.html");
 };
-
-decreaseScore = function (num) {
-    if(score >= 3) {
-        score -= num;
-        tallyS.innerText = score;
-    }
-}
