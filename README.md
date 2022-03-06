@@ -24,9 +24,6 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
     * [Strategy](#strategy)
     * [Scope](#scope)
     * [Structure](#structure)
-    * [Skeleton](#skeleton)
-        * [Sketches](#sketches)
-        * [Mockups](#mockups)
     * [Surface](#surface)
 
 3. [Existing Features](#existing)
