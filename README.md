@@ -50,7 +50,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-**LIVE DEMO** <a name="live-demo"></a>000
+**LIVE DEMO** <a name="live-demo"></a>
 
 
 **UX** <a name="ux"></a>
