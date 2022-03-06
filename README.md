@@ -142,9 +142,7 @@ therefore users must use their brains.
 * The Questions page offers the user the ability to exit the game and return to the Home page using the "Return to Home" button. Again this button is clearly visible toward 
 the bottom of the page. 
 
-* The Completed page has slightly more options in terms of navigation. The first navigation button the user is presented with is the "Save Score" button, this button, however, 
-is disabled. The "Save Score" button has been disabled to prevent users from being able to save their score without entering a name into the "Enter Name" field. Once a user has 
-entered their name, the "Save Score" button becomes available to click. 
+* The Completed page allows users to see their score then additionally have the coice to start the game again or navigate to the "Home" page.
 
 * Below the "Save Score" button there are three more buttons, "Play Again"and "Return to Home". The "Play Again" button will instantly direct the user to 
 a new game of ArtiQuizz. The "Return to Home" button will take 
