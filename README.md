@@ -37,13 +37,11 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 5. [Technologies](#technologies)
 
-6. [Testing](#testing)
-
-7. [Deployment](#deployment)
+6. [Deployment](#deployment)
     * [Configure Github Pages](#pages)
     * [Cloning Repository](#cloning)
 
-8. [Credits](#credits)
+7. [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
     * [Acknowledgements](#thanks)
@@ -207,12 +205,12 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 ### **OTHER FEATURES** <a name="other-feat"></a>
 
- * ArtiQuiz's website has a favicon image which displays in a user's web browser tab. The image is a small purple square with a gold coloured "Q" within it.
- This favicon image keeps to the ArtiQuiz's colour theme, and also the font used throughout the whole website. This has been added for improved UX.
+ * ArtiQuiz's website has a favicon image which displays in a user's web browser tab. The image is a small green brain with a pink background.
+ This favicon image keeps to the ArtiQuiz's colour theme. This has been added for improved UX.
 
 ---
 
- ## :pencil2: **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
+ **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
 
  * In the future there will be different categories for a user to choose from. Currently, users are limited to one category, the arts. Soon, users will be able to choose
  from categories such as History, Sports, Geography, Nature, and many more.
@@ -220,9 +218,11 @@ points depending on whether they score a correct answer or an incorrect answer. 
  * Further down the line, we want to make it possible for users to submit their own questions for verification. These questions will then be uploaded into their own category for
  people to choose from.
 
+ * I would also think a leaderboard would be beneficial to add to the competative and group fun aspect of the game. A function to save scores would need to be added to facilitate this in future.
+
  ---
 
-  ## :cd: **TECHNOLOGIES USED** <a name="technologies"></a>
+ **TECHNOLOGIES USED** <a name="technologies"></a>
 
 1. [HTML](https://html.spec.whatwg.org/multipage/)
 
@@ -259,14 +259,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 ---
 
-## :test_tube: **TESTING** <a name="testing"></a>
-
-Due to the extensive nature of the testing process, test analysis and reporting can be found by clicking on the following links.
-Here you shall find a separate markdown file as well as a more visual PDF file containing an Excel spreadsheet.
-
----
-
-## :airplane: **DEPLOYMENT** <a name="deployment"></a>
+**DEPLOYMENT** <a name="deployment"></a>
 
 
 
@@ -295,7 +288,7 @@ and publishes a website. ArtiQuiz's website has been successfully hosted by GitH
 
 ---
 
-## :clapper: **CREDITS** <a name="credits"></a>
+**CREDITS** <a name="credits"></a>
 
 Various websites were used for ArtiQuiz's website to become what it is today. All content displayed is part of the public domain.
 
@@ -325,6 +318,9 @@ Inspiration was used in various locations across the world wide web. Please see 
     * James Q Quick's video tutorials were very helpful during the JavaScript coding process. The Quiz App videos were especially helpful - [Build a Quiz App](https://www.youtube.com/watch?v=u98ROZjBWy8).
     Code has not been copied exactly. There are similarities to be found. Please make note of this. James Q Quick does deserve credit.
 
+* Structure and inspiration -[James Q Quick - Youtube] (https://github.com/WebSlinger88/Quizzical.git)
+This inspirational website was composed by WebSlinger88 which in turn was inspired by tutorials compiled by James Q Quick as mentioned above.
+
 * Timer - [Muhanad Hasan](https://www.youtube.com/channel/UC1xxTfHbYlFLzjqUIQbA7iQ)
 
     * Muhanad Hasan gave me the idea for my JavaScript timer - [Quiz Timer](https://www.youtube.com/watch?v=9-5URe9CykA).
@@ -338,7 +334,7 @@ Inspiration was used in various locations across the world wide web. Please see 
     * Thanks to w3schools for again providing solid information. Always a go-to site!
 
 ---
-:star: *A special thank you to Mo_mentor Code Institute Mentor and ######  for aid, assistance, and much-needed guidance.* :star:
+*A special thank you to Chris Quinn, Code Institute Mentor, for aid, assistance, and much-needed guidance!* 
 
 
 ---
