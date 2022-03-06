@@ -14,7 +14,7 @@ let score = 0;
 let qNum = 0;
 let time = 10;
 let availableQ = [];
-let artiquests = [];
+let quizQuests = [];
 
 const correctPoints = 10;
 const incorrectPoints = 3;
