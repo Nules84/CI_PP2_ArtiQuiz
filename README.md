@@ -315,10 +315,10 @@ Inspiration was used in various locations across the world wide web. Please see 
 
 * JavaScript - [James Q Quick - Youtube](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) | [James Q Quick - Github](https://github.com/jamesqquick)
 
-    * James Q Quick's video tutorials were very helpful during the JavaScript coding process. The Quiz App videos were especially helpful - [Build a Quiz App](https://www.youtube.com/watch?v=u98ROZjBWy8).
+* James Q Quick's video tutorials were very helpful during the JavaScript coding process. The Quiz App videos were especially helpful - [Build a Quiz App](https://www.youtube.com/watch?v=u98ROZjBWy8).
     Code has not been copied exactly. There are similarities to be found. Please make note of this. James Q Quick does deserve credit.
 
-* Structure and inspiration -[James Q Quick - Youtube] (https://github.com/WebSlinger88/Quizzical.git)
+* Structure and inspiration -[WebSlinger88_Code_Institute] (https://github.com/WebSlinger88/Quizzical.git)
 This inspirational website was composed by WebSlinger88 which in turn was inspired by tutorials compiled by James Q Quick as mentioned above.
 
 * Timer - [Muhanad Hasan](https://www.youtube.com/channel/UC1xxTfHbYlFLzjqUIQbA7iQ)
