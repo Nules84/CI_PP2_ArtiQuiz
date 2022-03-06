@@ -14,7 +14,7 @@ let score = 0;
 let qNum = 0;
 let time = 10;
 let availableQ = [];
-let quizQuests = [];
+let artiquests = [];
 
 const correctPoints = 10;
 const incorrectPoints = 3;
@@ -29,7 +29,7 @@ fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
     })
 
     .then(function (loadedQuest) {
-        quizQuests = loadedQuest.results.map(function (loadedQuest) {
+        artiquests = loadedQuest.results.map(function (loadedQuest) {
             const convertedQuest = {
                 question: loadedQuest.question,
             };
@@ -58,7 +58,7 @@ fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
 function gameBegin() {
     score = 0;
     qNum = 0;
-    availableQ = [...quizQuests];
+    availableQ = [...artiquests];
     time = 10;
     nextQuest();
     quiz.classList.remove("d-none");
