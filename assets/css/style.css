@@ -107,12 +107,12 @@ main {
 
 .correct {
     background-color: #39850d;
-    color: #C16540;
+    color: #ffffff;
 }
 
 .incorrect {
     background-color: #a83232;
-    color: #C16540;
+    color: #ffffff;
 }
 
 .detail-feature h1 {
