@@ -213,8 +213,7 @@ Each button has the box-shadow hover effect. This will highlight each button to 
 
 * The Home page includes two paragraphs of text providing information to the user. This text welcomes the user and gives them slight encouragement. 
 
-* Two buttons are found towards the bottom of the page. The first button will start the game. The second button will navigate the user to the leaderboard page.
-This is mentioned in the navigation section of this document. 
+* One button is found towards the bottom of the page. This button will start the game.
 
 * Each button has the box-shadow hover effect. Box-shadow is highly appealing to the eye and offers a better user experience. 
 It essentially makes the buttons glow gold when they're interacted with.
@@ -260,26 +259,7 @@ content re-appears.
 points depending on whether they score a correct answer or an incorrect answer. Ten points (10) for correct, minus three (-3) for incorrect. This score is tallied up and presented 
 to the user with a message of congratulations. 
 
-* Below the awarded points and congratulations message, the user is presented with an "Enter Name" field, this field allows a user to enter their name so that 
-they can ultimately save their awarded score onto the ArtiQuiz leaderboard. 
-
-* Below is a "Save Score" button, as mentioned in the Navigation section of this document. Below are three navigation buttons which allow the user to navigate wherever they wish to go, 
-whether it be to "Play Again", "View Leaderboard", or "Return to Home". Each of these buttons are mentioned in the navigation section of this document. Each button has the box-shadow hover effect.
-
-### **LEADERBOARD PAGE** <a name="leaderboard"></a>
- 
- * The leaderboard page logo is situated to the top left-hand side of the screen, similar to the Questions page. This image uses more width, rather than height, so that
-little vertical screen space is taken up. 
-
-* The Leaderboard page is one key element which provides the user with great replay value. The goal of ArtiQuiz's 
-leaderboard is to offer the user the chance to compete against family and friends and place their name at the top of the board. 
-
-* Each score will be mathematically decided, sorted, and displayed within an attractive table keeping to the same theme as the rest of ArtiQuiz's website. Initially, there will be no 
-table to display, but as users start to complete the quiz and upload their score to local storage, the leaderboard table will begin to populate information. The information that is held 
-and displayed will be the users name and score only. 
-
-* Finally, as mentioned in the navigation section of this document, there is a "Return to Home" button located at the bottom of the 
-Leaderboard page.
+* There is a "Return to Home" button below the congratulations message. Each button has the box-shadow hover effect.
 
 ### **OTHER FEATURES** <a name="other-feat"></a>
 
