@@ -1,9 +1,3 @@
-// name variable holds users name
-// saveScore variable will allow us to enable and disable the Save Score button.
-// endScore variable will display message containing final user's score and additional text in the heading tag on completed.html.
-// newScore variable is the score saved in local storage to be displayed in html page.
-// totalResults variable is the max number of entries allowed on the leaderboard.
-// results variable converts data in local storage from a string to an object. Empty array added to avoid null console log entry.
 const name = document.getElementById("name");
 const saveScore = document.getElementById("saveScore");
 const endScore = document.getElementById("endScore");
