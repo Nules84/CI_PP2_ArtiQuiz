@@ -133,7 +133,7 @@ therefore users must use their brains.
 
 ---
 
-## :page_facing_up: **EXISTING FEATURES** <a name="existing"></a>
+**EXISTING FEATURES** <a name="existing"></a>
 
 ### **NAVIGATION** <a name="navigation"></a>
 
