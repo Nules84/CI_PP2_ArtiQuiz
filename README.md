@@ -87,7 +87,7 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 >   Need a visual way to keep track of what question you're on and what score you have. - Heather P
 
->   Must have a leaderboard and a way to save scores. - Phil W
+>   I should be able to return to home or begin again at any stage throughout the game. - Phil W
 
 >   Easy navigation within the website is a must. Have to make it user friendly. - Becky D
 
@@ -270,12 +270,7 @@ to the user with a message of congratulations.
 
  ## :pencil2: **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
 
- * Currently, there is no way for users to save their score on a device and then access their score on another device. Currently, scores are saved on local storage, therefore
- they cannot be accessed anywhere other than the device they originated from. This means that each device ArtiQuiz is played on will have a completely different leaderboard.
- In the future, cloud storage will be implemented so that players from different households/friendship groups will be able to compete against each other, rather than the current
- situation where people are limited to one device.
-
- * In the future there will be different categories for a user to choose from. Currently, users are limited to one category, General Knowledge. Soon, users will be able to choose
+ * In the future there will be different categories for a user to choose from. Currently, users are limited to one category, the arts. Soon, users will be able to choose
  from categories such as History, Sports, Geography, Nature, and many more.
 
  * Further down the line, we want to make it possible for users to submit their own questions for verification. These questions will then be uploaded into their own category for
@@ -310,21 +305,13 @@ to the user with a message of congratulations.
 
     * Used to change the font throughout ArtiQuiz's whole website.
 
-7. [Balsamiq Wireframes 4](https://balsamiq.com/)
-
-    * Used to create ArtiQuizs Wireframes.
-
-8. [Adobe XD](https://www.adobe.com/uk/products/xd.html)
+7. [Adobe XD](https://www.adobe.com/uk/products/xd.html)
 
     * Used to create ArtiQuiz's logos and Mock Ups.
 
-9. [Open Trivia Database](https://opentdb.com/)
+8. [Open Trivia Database](https://opentdb.com/)
 
     * Used free API to generate random questions for ArtiQuiz's website.
-
-9.
-
-    * Used to reduce the size of PNG and JPG files.
 
 ---
 
@@ -332,8 +319,6 @@ to the user with a message of congratulations.
 
 Due to the extensive nature of the testing process, test analysis and reporting can be found by clicking on the following links.
 Here you shall find a separate markdown file as well as a more visual PDF file containing an Excel spreadsheet.
-
-
 
 ---
 
