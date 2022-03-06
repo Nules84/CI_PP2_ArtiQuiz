@@ -106,12 +106,12 @@ main {
 }
 
 .correct {
-    background-color: #C16540;
+    background-color: #39850d;
     color: #C16540;
 }
 
 .incorrect {
-    background-color: #DAD9D6;
+    background-color: #a83232;
     color: #C16540;
 }
 
