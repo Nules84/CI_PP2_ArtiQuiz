@@ -1,5 +1,3 @@
-
-
 # Artiquiz
 <a name="top">Developer: Nuala Gallagher King</a>
 
@@ -17,7 +15,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-## :books: **TABLE OF CONTENTS**
+**TABLE OF CONTENTS**
 
 1. [Live Demo](#live-demo)  
 
@@ -28,7 +26,6 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
     * [Structure](#structure)
     * [Skeleton](#skeleton)
         * [Sketches](#sketches)
-        * [Wireframes](#wireframes)
         * [Mockups](#mockups)
     * [Surface](#surface)
 
@@ -56,10 +53,10 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-## :computer: **LIVE DEMO** <a name="live-demo"></a>000
+**LIVE DEMO** <a name="live-demo"></a>000
 
 
-## :sparkles: **UX** <a name="ux"></a>
+**UX** <a name="ux"></a>
 
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
@@ -125,62 +122,18 @@ The Completed page has large text indicating that the quiz has been completed. T
 
 ---
 
-### **SKELETON** <a name="skeleton"></a>
-
-ArtiQuiz's website started on a piece of paper. Sketches were drawn out and a decent design was soon ready to leap into the digital world.
-Below you shall find some images of the original sketches used to help develop this project.
-
-#### *Sketches* <a name="sketches"></a>
-
-
-After drawing up the sketches it was time to get them onto the screen. To do this a wireframe was created using Balsamiq Wireframes 4.
-Wireframes are used to display what the creator ultimately envisions the website to look like, roughly! It acts as one of the first stepping stones
-of the journey. Please find below the original Wireframes for ArtiQuiz's project.
-
-#### *Wireframes* <a name="wireframes"></a>
-
-
-#### *Mock Ups* <a name="mockups"></a>
-
-Finally with the basics down on paper and screen, it was time to start shaping things up. After wireframes, it's time to take things a little more
-seriously. Enter Adobe XD. Adobe XD is a powerful piece of software designed to assist artists worldwide. More detailed designs are now progressed, 
-and sketches etc.. are now a thing of the past! If you scan down slightly you will find links to ArtiQuiz's Mock-Ups. You can clearly see how the 
-project has evolved.
-
----
-
 ### **SURFACE** <a name="surface"></a>
 
-The colour scheme chosen for this website offers fluorescent, striking colours.
-There are two main colours (Purple & Gold) for this website, they're sure to impress!
-This was chosen because of the colours' positive vibe and feel-good effect. Here are the chosen colours:
-
-![Website Colour Scheme](assets/images/readme/website-colours.png "Website Colour Scheme")
-
-| **Colour Name**   | **Colour RGB Code**    
-| -------------     |:-------------:| 
-|Pink            |
-| Blue           |
-
-There are two more colours which are less frequent, they are the colours which appear when a user has answered a question correctly or incorrectly. 
-When a user clicks an answer button, that button will briefly change colour to indicate whether or not they were successful in answering. Here are the chosen colours:
-
-![Correct / Incorrect Colour Scheme](assets/images/readme/correct-incorrect-colours.png "Correct / Incorrect Colour Scheme")
-
-White text is used here because gold/purple text clashed negatively.
-
-| **Colour Name**   | **Colour RGB Code**    
-| -------------     |:-------------:| 
-| Custom       |
-| Custom         |*
-| White             |
+For the colour scheme, I had taken inspiration from the artist Andy Warhols Maralyn Monroe print, bright and contemporary colors. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+<br>
+![color](docs/color_pallett.jpg)
 
 The images used for ArtiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArtiQuiz a thinking game
-therefore users must use their brains. The bright lights located above the letters "i" within the logo represent a illuminated light bulb; this conveys thinking.
+therefore users must use their brains. 
 
- * The font used throughout ArtiQuiz's website is Google font's ##########################.
+ * The fonts used throughout ArtiQuiz's website is Google font's Oswald and Montserrat.
 
- * If at any point a browser cannot support the Amarante font, the browser will fall back on ################.
+ * If at any point a browser cannot support the Oswald font, the browser will fall back on Lato.
 
 ---
 
@@ -188,8 +141,7 @@ therefore users must use their brains. The bright lights located above the lette
 
 ### **NAVIGATION** <a name="navigation"></a>
 
-* All pages feature at least one navigation button. The Home page presents the user with two navigation buttons, the "Start Game" button and the "View Leaderboard" button.
-The buttons are fairly large and easily visible.
+* All pages feature at least one navigation button. The buttons are fairly large and easily visible.
 
 * The Questions page offers the user the ability to exit the game and return to the Home page using the "Return to Home" button. Again this button is clearly visible toward 
 the bottom of the page. 
