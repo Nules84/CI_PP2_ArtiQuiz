@@ -186,8 +186,7 @@ The progress bar has a gold border and a purple background, it fills with gold a
     2. Question Timer. The timer is set to ten seconds (10), which means that each user has a maximum of ten seconds to answer any question. If a user cannot 
     answer a question in time, points will be deducted and the next question will be populated. 
 
-    3. Score Tally. Users will be awarded ten points (10) for each correct answer but three points (3) shall be deducted for any incorrect answer. This will be automatically 
-    updated with JavaScript code as the game is played. The point system is a key feature of the ArtiQuiz website. It enables key replay value and competitiveness. 
+    3. Score Tally. Users will be awarded ten points (10) for each correct answer but three points (3) shall be deducted for any incorrect answer although scores will not go below zero. This will be automatically updated with JavaScript code as the game is played. The point system is a key feature of the ArtiQuiz website. It enables key replay value and competitiveness. 
     
 * When a question is answered, the button clicked will briefly change colour to either green or red, depending on whether the question was answered correctly or incorrectly. 
 The text also changes to white momentarily. 
@@ -202,8 +201,7 @@ content re-appears.
 * The completed page has the same logo as the Home page, situated in the middle of the page. This is to grab the user's attention. 
 
 * The Completed page is presented to a user when they have answered all ten questions either correctly or incorrectly. During the game, as mentioned previously, a user accumulates 
-points depending on whether they score a correct answer or an incorrect answer. Ten points (10) for correct, minus three (-3) for incorrect. This score is tallied up and presented 
-to the user with a message of congratulations. 
+points depending on whether they score a correct answer or an incorrect answer. Ten points (10) for correct, minus three (-3) for incorrect. This score is tallied up and presented to the user with a message of congratulations. 
 
 * There is a "Return to Home" button below the congratulations message. Each button has the box-shadow hover effect.
 
