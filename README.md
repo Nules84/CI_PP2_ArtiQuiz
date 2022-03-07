@@ -122,7 +122,7 @@ The Completed page has large text indicating that the quiz has been completed. T
 
 For the colour scheme, I had taken inspiration from the artist Andy Warhols print of Maralyn Monroe, using contrasting and contemporary colors. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
 <br>
-![color](docs/color_pallett.jpg)
+![color](assets/images/chosen_colors.JPG)
 
 The images used for ArtiQuiz's logos were chosen because they relate to the theme of the website. By this, I refer to the brain image. ArtiQuiz a thinking game
 therefore users must use their brains. 
