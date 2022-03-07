@@ -65,7 +65,7 @@ main {
 
 .btn {
   font-size: 2.75vh;
-  color: var(--darker-pink);
+  color: #dadada;
   background-color: var(--pink);
   border-radius: 2rem;
 }
