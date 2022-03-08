@@ -37,7 +37,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 5. [Technologies](#technologies)
 
-6. [Testing](#lighthouse-reports)
+6. [Testing](#testing)
 
 7. [Deployment](#deployment)
     * [Configure Github Pages](#pages)
@@ -135,7 +135,7 @@ therefore users must use their brains.
 
 ---
 
-**EXISTING FEATURES** <a name="existing"></a>
+### **EXISTING FEATURES** <a name="existing"></a>
 
 ### **NAVIGATION** <a name="navigation"></a>
 
@@ -263,7 +263,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 ---
 
-### **TESTING** 
+### **TESTING** <a name="testing"></a>
 
     * Lighthouse Reports
 
