@@ -263,6 +263,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Completed
 ![Completed](assets/images/lighthouse_completed.JPG)
+<br>
 
 
 ## **DEPLOYMENT** <a name="deployment"></a>
