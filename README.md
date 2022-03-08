@@ -17,33 +17,31 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ## **TABLE OF CONTENTS**
 
-1. [Live Demo](#live-demo)  
-
-2. [UX](#ux)
+1. [UX](#ux)
     * [User Stories](#stories)
     * [Strategy](#strategy)
     * [Scope](#scope)
     * [Structure](#structure)
     * [Surface](#surface)
 
-3. [Existing Features](#existing)
+2. [Existing Features](#existing)
     * [Navigation](#navigation)
     * [Home](#home)
     * [Questions](#questions)
     * [Completed](#completed)
     * [Other Features](#other-feat)
 
-4. [Features left to Implement](#features-left)
+3. [Features left to Implement](#features-left)
 
-5. [Technologies](#technologies)
+4. [Technologies](#technologies)
 
-6. [Testing](#testing)
+5. [Testing](#testing)
 
-7. [Deployment](#deployment)
+6. [Deployment](#deployment)
     * [Configure Github Pages](#pages)
     * [Cloning Repository](#cloning)
 
-8. [Credits](#credits)
+7. [Credits](#credits)
     * [Content](#content)
     * [Media](#media)
     * [Acknowledgements](#thanks)
