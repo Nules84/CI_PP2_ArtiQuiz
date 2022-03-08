@@ -50,10 +50,10 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-# **LIVE DEMO** <a name="live-demo"></a>
+**LIVE DEMO** <a name="live-demo"></a>
 
 
-# **UX** <a name="ux"></a>
+**UX** <a name="ux"></a>
 
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
@@ -65,7 +65,7 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 ---
 
-## **USER STORIES** <a name="stories"></a>
+**USER STORIES** <a name="stories"></a>
 
 >   Bright attractive colours are needed. My favourite artist is Andy Warhol for those fun pink and aquamarine pops!. - Lindsay W
 
