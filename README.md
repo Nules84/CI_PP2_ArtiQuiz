@@ -253,15 +253,12 @@ Accessibility
 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
-<details><summary>Home</summary>
-<img src="assets/images/lighthouse_home.JPG">
-</details>
-<details><summary>Questions</summary>
-<img src="assets/images/lighthouse_questions.JPG">
-</details>
-<details><summary>Completed</summary>
-<img src="assets/images/lighthouse_completed.JPG">
-</details>
+![Home](assets/images/lighthouse_home.JPG)
+
+![Questions](assets/images/lighthouse_questions.JPG)
+
+![Completed](assets/images/lighthouse_completed.JPG)
+
 
 ## **DEPLOYMENT** <a name="deployment"></a>
 
