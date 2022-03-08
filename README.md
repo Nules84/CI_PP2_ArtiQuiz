@@ -48,9 +48,6 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-### **LIVE DEMO** <a name="live-demo"></a>
-
-
 ## **UX** <a name="ux"></a>
 
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
