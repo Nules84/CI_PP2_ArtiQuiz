@@ -15,7 +15,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-**TABLE OF CONTENTS**
+## **TABLE OF CONTENTS**
 
 1. [Live Demo](#live-demo)  
 
@@ -50,10 +50,10 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 
 ---
 
-**LIVE DEMO** <a name="live-demo"></a>
+### **LIVE DEMO** <a name="live-demo"></a>
 
 
-**UX** <a name="ux"></a>
+## **UX** <a name="ux"></a>
 
 The user experience (UX) is what a user of a particular product experiences when using that product. A UX designer's job is thus to create a product that 
 provides the best possible user experience. We're going to provide some insight into the UX process here, focusing on the important Who, What and How?
@@ -65,7 +65,7 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 ---
 
-## **USER STORIES** <a name="stories"></a>
+### **USER STORIES** <a name="stories"></a>
 
 >   Bright attractive colours are needed. My favourite artist is Andy Warhol for those fun pink and aquamarine pops!. - Lindsay W
 
@@ -87,7 +87,7 @@ Carry on below and read some of ArtiQuiz's user stories to get a feel for what p
 
 ---
 
-**STRATEGY** <a name="strategy"></a>
+### **STRATEGY** <a name="strategy"></a>
 
 The strategy of the ArtiQuiz website is to entertain and educate users. Our long term ambition is that ArtiQuiz hopes to move into an e-commerce situation 
 where the product is licenced and the product is part of an expanded range. ArtiQuiz hopes to have multiple categories ranging from movie trivia, sports, 
@@ -96,14 +96,14 @@ replay value. Another long term strategy is that we hope to offer the public the
 
 ---
 
-**SCOPE** <a name="scope"></a>
+### **SCOPE** <a name="scope"></a>
 
 The scope of ArtiQuiz is to provide a flawless user experience straight from the get-go. We want users to be highly entertained in a socially competitive
 environment whilst absorbing information they may not have encountered before. Ultimately we want users to return time and time again, not only to test their new-found knowledge, but to learn something new every time.
 
 ---
 
-**STRUCTURE** <a name="structure"></a>
+### **STRUCTURE** <a name="structure"></a>
 
 Each page will have a ArtiQuiz logo situated at the top of the screen, whether it's in the middle, or located to the left. Each page will have an identical
 footer which contains copyright information and a link to the developer's LinkedIn profile. There are three pages in total, the Home page, Questions page and Completed page. The home page is fairly basic and offers only what the user needs to know. It contains ArtiQuiz's main logo image, a few lines of text, one navigation button, and a footer.
@@ -118,7 +118,7 @@ The Completed page has large text indicating that the quiz has been completed. T
 
 ---
 
-**SURFACE** <a name="surface"></a>
+### **SURFACE** <a name="surface"></a>
 
 For the colour scheme, I had taken inspiration from the artist Andy Warhols print of Maralyn Monroe, using contrasting and contemporary colors. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WAVE to make sure the contrast between them was right.
 <br>
@@ -135,9 +135,9 @@ therefore users must use their brains.
 
 ---
 
-**EXISTING FEATURES** <a name="existing"></a>
+## **EXISTING FEATURES** <a name="existing"></a>
 
-**NAVIGATION** <a name="navigation"></a>
+### **NAVIGATION** <a name="navigation"></a>
 
 * All pages feature at least one navigation button. The buttons are fairly large and easily visible.
 
@@ -153,7 +153,7 @@ the user back to ArtiQuiz's Home page.
 * To summarise, no matter where the user is within ArtiQuiz's website, they shouldn't have any problem navigating themselves around.
 Each button has the box-shadow hover effect. This will highlight each button to make them glow gold. 
 
-**HOME PAGE** <a name="home"></a>
+### **HOME PAGE** <a name="home"></a>
 
 * The Home page displays a custom made ArtiQuiz logo image developed using Adobe XD. 
 
@@ -166,7 +166,7 @@ Each button has the box-shadow hover effect. This will highlight each button to 
 * Each button has the box-shadow hover effect. Box-shadow is highly appealing to the eye and offers a better user experience. 
 It essentially makes the buttons glow gold when they're interacted with.
 
-**QUESTIONS PAGE** <a name="questions"></a>
+### **QUESTIONS PAGE** <a name="questions"></a>
 
 * The Questions page displays a slightly different logo image situated to the top left-hand side of the screen. This image uses more width, rather than height, so that
 little vertical screen space is taken up. Similarly, this logo image was developed using Adobe XD. 
@@ -198,7 +198,7 @@ spinner has been put in place. This loading spinner is a spinning circle which r
 To summarise, when a user is waiting for questions to load, the loading spinner appears. When questions are ready to be displayed, the loading spinner disappears and all of question.html's
 content re-appears.
 
-**COMPLETED PAGE** <a name="completed"></a>
+### **COMPLETED PAGE** <a name="completed"></a>
 
 * The completed page has the same logo as the Home page, situated in the middle of the page. This is to grab the user's attention. 
 
@@ -207,14 +207,14 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 * There is a "Return to Home" button below the congratulations message. Each button has the box-shadow hover effect.
 
-**OTHER FEATURES** <a name="other-feat"></a>
+### **OTHER FEATURES** <a name="other-feat"></a>
 
  * ArtiQuiz's website has a favicon image which displays in a user's web browser tab. The image is a small green brain with a pink background.
  This favicon image keeps to the ArtiQuiz's colour theme. This has been added for improved UX.
 
 ---
 
- **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
+## **FEATURES LEFT TO IMPLEMENT** <a name="features-left"></a>
 
  * In the future there will be different categories for a user to choose from. Currently, users are limited to one category, the arts. Soon, users will be able to choose
  from categories such as History, Sports, Geography, Nature, and many more.
@@ -226,44 +226,28 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
  ---
 
- **TECHNOLOGIES USED** <a name="technologies"></a>
+## Technologies Used <a name="technologies"></a>
 
-1. [HTML](https://html.spec.whatwg.org/multipage/)
+### Languages
+- HTML
+- CSS
 
-    * The building blocks to everything that is code! Used to create the foundations of ArtiQuiz's website.
-
-2. [CSS](https://www.w3.org/Style/CSS/)
-
-    * Who's got style? Used to style ArtiQuiz's HTML code.
-
-3. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-    * The brains behind it all! Timer? Check. Random Questions? Check.
-    Score Counter? Check. You name it, JavaScript has got it!
-
-4. [Bootstrap](https://getbootstrap.com/)
-
-    * Used for Bootstrap's grid system, Navigation, mobile responsiveness etc...
-
-5. [Font Awesome](https://fontawesome.com/start)
-
-    * Used to provide quality icons for ArtiQuiz's footer.
-    
-6. [Google Fonts](https://fonts.google.com/)
-
-    * Used to change the font throughout ArtiQuiz's whole website.
-
-7. [Adobe XD](https://www.adobe.com/uk/products/xd.html)
-
-    * Used to create ArtiQuiz's logos and Mock Ups.
-
-8. [Open Trivia Database](https://opentdb.com/)
-
-    * Used free API to generate random questions for ArtiQuiz's website.
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod
+- Tinypng
+- Paint<span>.</span>NET
+- Balsamiq
+- Google Fonts
+- Adobe Color
+- Font Awsome
+- Favicon<span>.</span>io
 
 ---
 
-**TESTING** <a name="testing"></a>
+## **TESTING** <a name="testing"></a>
 
 Accessibility
 
@@ -279,12 +263,9 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="assets/images/lighthouse_completed.JPG">
 </details>
 
+## **DEPLOYMENT** <a name="deployment"></a>
 
-**DEPLOYMENT** <a name="deployment"></a>
-
-
-
-**CONFIGURE GITHUB PAGES** <a name="pages"></a>
+### **CONFIGURE GITHUB PAGES** <a name="pages"></a>
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, 
 and publishes a website. ArtiQuiz's website has been successfully hosted by GitHub Pages by following these processes:
@@ -297,7 +278,7 @@ and publishes a website. ArtiQuiz's website has been successfully hosted by GitH
 
 *Please note that it can take up to 20 minutes for this process to complete.*
 
-**CLONING REPOSITORY** <a name="cloning"></a>
+### **CLONING REPOSITORY** <a name="cloning"></a>
 
 1. Navigate to the Github remote repository: 
 2. Click green button labelled "Code" with download icon visible (next to Gitpod button).
@@ -309,20 +290,20 @@ and publishes a website. ArtiQuiz's website has been successfully hosted by GitH
 
 ---
 
-**CREDITS** <a name="credits"></a>
+## **CREDITS** <a name="credits"></a>
 
 Various websites were used for ArtiQuiz's website to become what it is today. All content displayed is part of the public domain.
 
-**CONTENT** <a name="content"></a>
+### **CONTENT** <a name="content"></a>
 
-* ArtiQuiz's logos were created and designed by [Nuala King](###################) - ArtiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
-* Some textual content on the ArtiQuiz website was written by [Nuala King](#####################) - ArtiQuiz's Full Stack Web Developer.
+* ArtiQuiz's logos were created and designed by [Nuala King](https://www.linkedin.com/in/nuala-g-king-ngk84/) - ArtiQuiz's Full Stack Web Developer, using [Adobe XD](https://www.adobe.com/uk/products/xd.html). Images sourced from [PNG Guru](https://www.pngguru.com/).
+* Some textual content on the ArtiQuiz website was written by [Nuala King](https://www.linkedin.com/in/nuala-g-king-ngk84/) - ArtiQuiz's Full Stack Web Developer.
 * Although not copied exactly, it's worth mentioning that [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw) was a great help during the JavaScript coding for ArtiQuiz's website. Please see Acknowledgements below.
 
 * Structure and inspiration -[WebSlinger88Code Institute](https://github.com/WebSlinger88/Quizzical.git)
 This inspirational website was composed by WebSlinger88 which in turn was inspired by tutorials compiled by James Q Quick as mentioned in acknowlegements section.
 
-**MEDIA** <a name="media"></a>
+### **MEDIA** <a name="media"></a>
 
 * Imagery:
 
@@ -333,7 +314,7 @@ This inspirational website was composed by WebSlinger88 which in turn was inspir
     * [Google Fonts](https://fonts.google.com/)
     * [Font Awesome](https://fontawesome.com/icons?d=gallery&m=free)
 
-**ACKNOWLEDGEMENTS** <a name="thanks"></a>
+### **ACKNOWLEDGEMENTS** <a name="thanks"></a>
 
 Inspiration was used in various locations across the world wide web. Please see below some of the key sources used to help develop ArtiQuiz.
 
