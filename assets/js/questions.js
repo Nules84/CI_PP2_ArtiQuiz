@@ -23,7 +23,6 @@ const totalQuests = 10;
 
 /*FETCH API*/
 
-if (window.location.pathname == '/questions.html') 
 fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
     .then(function (res) {
         return res.json();
