@@ -1,3 +1,5 @@
+/*VARIABLES*/
+
 const endScore = document.getElementById("endScore");
 const newScore = localStorage.getItem("newScore");
 
