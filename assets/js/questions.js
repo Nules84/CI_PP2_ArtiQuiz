@@ -23,6 +23,7 @@ const totalQuests = 10;
 
 /*FETCH API*/
 
+if (window.location.pathname == '/questions.html') 
 fetch("https://opentdb.com/api.php?amount=10&category=25&type=multiple")
     .then(function (res) {
         return res.json();
@@ -150,3 +151,8 @@ decreaseScore = function (num) {
         tallyS.innerText = score;
     }
 };
+
+const endScore = document.getElementById("endScore");
+
+// This text will display on completed.html page
+endScore.innerText = "You Scored:" + " " + endScore + "!";
