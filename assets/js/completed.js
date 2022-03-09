@@ -1,4 +1,3 @@
-const name = document.getElementById("name");
 const saveScore = document.getElementById("saveScore");
 const endScore = document.getElementById("endScore");
 const newScore = localStorage.getItem("newScore");
