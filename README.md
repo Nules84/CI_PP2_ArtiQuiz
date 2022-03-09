@@ -36,6 +36,12 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
 4. [Technologies](#technologies)
 
 5. [Testing](#testing)
+    * [Accessibility](#accessibility)
+    * [HTML Validation](#html-validation)
+    * [CSS Validation](#css-validation)
+    * [Javascript Validation](#js-validation)
+    * [User Story Testing](#use-stories)
+
 
 6. [Deployment](#deployment)
     * [Configure Github Pages](#pages)
