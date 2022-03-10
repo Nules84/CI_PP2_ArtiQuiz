@@ -308,7 +308,7 @@ Using the JSHint Validator: no errors
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home and Questions pages |Navigate to Home and Questions pages | To see th ecustom ArtiQuiz logo | Works as expected |
+| Home and Questions pages |Navigate to Home and Questions pages | To see the custom ArtiQuiz logo front and centre| Works as expected |
 
 
 3. I want to test test my Art knowledge in a fun way. - Elliot R
