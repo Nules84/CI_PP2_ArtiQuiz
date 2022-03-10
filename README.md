@@ -250,7 +250,7 @@ points depending on whether they score a correct answer or an incorrect answer. 
 
 ## **TESTING** <a name="testing"></a>
 
-Accessibility
+### **Accessibility** <a name="accessibility"></a>
 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
@@ -265,6 +265,39 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 ### Completed
 ![Completed](assets/images/lighthouse_completed.JPG)
 <br>
+
+### **HTML Validation** <a name="html-validation"></a>
+
+Using w3c html validator: no errors
+### Home
+![Home](assets/images/html_checker_home.JPG)
+
+### Questions
+![Questions](assets/images/questions_w3chtml.JPG)
+
+### Completed
+![Completed](assets/images/html_checker_completed.JPG)
+
+### **CSS Validation** <a name="css-validation"></a>
+
+Using w3c Css validator: no errors
+
+### Completed
+![Css Report](assets/images/w3c_css.JPG)
+
+### **Javascript Validation** <a name="js-validation"></a>
+
+Using the JSHint Validator: no errors
+
+### Javascript 
+![Javascript Validation](assets/images/js_validator_questions.JPG)
+<br>
+
+![Javascript Validation](assets/images/js_validator_completed.JPG)
+
+### **User Story Testing** <a name="use-stories"></a>
+
+
 
 
 ## **DEPLOYMENT** <a name="deployment"></a>
