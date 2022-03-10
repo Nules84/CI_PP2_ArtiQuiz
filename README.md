@@ -301,7 +301,7 @@ Using the JSHint Validator: no errors
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Colors | The bright contemporary theme continues throughout the quiz webite and is fun and effective | Works as expected |
+| Colors | Make a bright contemporary theme that continues throughout the quiz webite | It shoudl be fun, simple and enticing| Works as expected |
 
 
 2. Need an attractive logo which really captures the eye. - Diane W
@@ -356,7 +356,7 @@ Using the JSHint Validator: no errors
 9. Easy navigation within the website is a must. Have to make it user friendly. - Becky D
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| All pages| make the website easy to navigate |using big buttons and exciting, contemporary and contrasting color palatte| Works as expectd |
+| All pages| make the website easy to navigate | Using big buttons and exciting, contemporary and contrasting color palatte| Works as expectd |
 
 
 ## **DEPLOYMENT** <a name="deployment"></a>
