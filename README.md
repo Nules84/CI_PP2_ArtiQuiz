@@ -290,9 +290,12 @@ Using w3c Css validator: no errors
 Using the JSHint Validator: no errors
 
 ### Javascript 
+
+#### Questions Javascript
 ![Javascript Validation](assets/images/js_validator_questions.JPG)
 <br>
 
+#### Completed Javascript
 ![Javascript Validation](assets/images/js_validator_completed.JPG)
 
 ### **User Story Testing** <a name="use-stories"></a>
