@@ -297,7 +297,66 @@ Using the JSHint Validator: no errors
 
 ### **User Story Testing** <a name="use-stories"></a>
 
+1. Bright attractive colours are needed. My favourite artist is Andy Warhol for those fun pink and aquamarine pops!. - Lindsay W
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Colors | The bright contemporary theme continues throughout the quiz webite and is fun and effective | Works as expected |
+
+
+2. Need an attractive logo which really captures the eye. - Diane W
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Home and Questions pages |Navigate to Home and Questions pages | to see th ecustom ArtiQuiz logo | Works as expected |
+
+
+3. I want to test test my Art knowledge in a fun way. - Elliot R
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions | Navigate to the home page and click the play button | start the quiz| Works as expected | 
+
+
+4. Randomly generated questions/answers are a must have! - Abi C
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions | Navigate to the home page and click teh play button | randomly generated questions on the topic of art | Works as expected |
+
+
+5. A progress bar should be included to give people a visualisation of their progress. - Laurie D
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions page | Navigate to the home page and click the play button to start answering questions| A progress bar should appear and increase solidity as teh game continues | Works as expected |
+
+
+6.  Definitely need a timer to be included so that players have a sense of urgency. - Lindsay W
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions page | Navigate to the home page and click the play button to start answering questions| A time should appear| Works as expected |
+
+
+7. Need a visual way to keep track of what question you're on and what score you have. - Heather P
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions page | Navigate to the home page and click the play button to start answering questions| Questions are numbered from 1 to 10| Works as expected |
+
+
+8. I should be able to return to home or begin again at any stage throughout the game. - Phil W
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Questions and Completed page| click Home or play again button | once buttons are clicked you shoudl either return home or the quiz starts again | Works as expected |
+
+
+9. Easy navigation within the website is a must. Have to make it user friendly. - Becky D
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| All pages| make the website easy to navigate |using big buttons and exciting, contemporary and contrasting color palatte| Works as expectd |
 
 
 ## **DEPLOYMENT** <a name="deployment"></a>
