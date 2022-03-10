@@ -364,7 +364,7 @@ Using the JSHint Validator: no errors
 
 ## **Bugs Testing** <a name="Bugs"></a>
 
-My main issue in regard to bugs was trying to add all of my Javascript to one file in the name of streamlining my work. In the end I reverted to having two separate Javascript files. The hope is that I can have them linked to the html using a single javascript file at a later date. In saying that, teh site works well with the two separate Javascript files.
+My main issue in regard to bugs was trying to add all of my Javascript to one file in the name of streamlining my work. In the end I reverted to having two separate Javascript files. The hope is that I can have them linked to the html using a single javascript file at a later date. In saying that, the site works well with the two separate Javascript files.
 
 ## **DEPLOYMENT** <a name="deployment"></a>
 
