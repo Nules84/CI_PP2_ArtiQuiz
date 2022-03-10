@@ -41,6 +41,7 @@ ArtiQuiz was created with this in mind; for friends and family to gather togethe
     * [CSS Validation](#css-validation)
     * [Javascript Validation](#js-validation)
     * [User Story Testing](#use-stories)
+    * [Bugs Testing](#bugs)
 
 
 6. [Deployment](#deployment)
@@ -361,6 +362,9 @@ Using the JSHint Validator: no errors
 |-------------|------------|---------------------|-------------------|
 | All Pages| Make teh website easy to navigate | Using large wide buttons and exciting, contemporary and a contrasting color palatte | Works as expected |
 
+## **Bugs Testing** <a name="Bugs"></a>
+
+My main issue in regard to bugs was trying to add all of my Javascript to one file in the name of streamlining my work. In the end I reverted to having two separate Javascript files. The hope is that I can have them linked to the html using a single javascript file at a later date. In saying that, teh site works well with the two separate Javascript files.
 
 ## **DEPLOYMENT** <a name="deployment"></a>
 
