@@ -301,42 +301,42 @@ Using the JSHint Validator: no errors
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Colors | Make a bright contemporary theme that continues throughout the quiz webite | It shoudl be fun, simple and enticing| Works as expected |
+| Colors | Make a bright contemporary theme that continues throughout the quiz webite | It should be fun, simple and enticing| Works as expected |
 
 
 2. Need an attractive logo which really captures the eye. - Diane W
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Home and Questions pages |Navigate to Home and Questions pages | to see th ecustom ArtiQuiz logo | Works as expected |
+| Home and Questions pages |Navigate to Home and Questions pages | To see th ecustom ArtiQuiz logo | Works as expected |
 
 
 3. I want to test test my Art knowledge in a fun way. - Elliot R
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Questions | Navigate to the home page and click the play button | start the quiz| Works as expected | 
+| Questions | Navigate to the home page and click the play button | Start the quiz| Works as expected | 
 
 
 4. Randomly generated questions/answers are a must have! - Abi C
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Questions | Navigate to the home page and click teh play button | randomly generated questions on the topic of art | Works as expected |
+| Questions | Navigate to the home page and click teh play button | Randomly generated questions on the topic of art | Works as expected |
 
 
 5. A progress bar should be included to give people a visualisation of their progress. - Laurie D
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Questions page | Navigate to the home page and click the play button to start answering questions| A progress bar should appear and increase solidity as teh game continues | Works as expected |
+| Questions page | Navigate to the home page and click the play button to start answering questions| A progress bar should appear and increase solidity as the game continues | Works as expected |
 
 
 6.  Definitely need a timer to be included so that players have a sense of urgency. - Lindsay W
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Questions page | Navigate to the home page and click the play button to start answering questions| A time should appear| Works as expected |
+| Questions page | Navigate to the home page and click the play button to start answering questions| A timer should appear, progressing throughout the quiz| Works as expected |
 
 
 7. Need a visual way to keep track of what question you're on and what score you have. - Heather P
@@ -350,13 +350,13 @@ Using the JSHint Validator: no errors
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Questions and Completed page| click Home or play again button | once buttons are clicked you shoudl either return home or the quiz starts again | Works as expected |
-
+| Questions and Completed page| Click Home or play again button | Once buttons are clicked you should either return home or the quiz starts again | Works as expected |
 
 9. Easy navigation within the website is a must. Have to make it user friendly. - Becky D
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| All pages| make the website easy to navigate | Using big buttons and exciting, contemporary and contrasting color palatte| Works as expectd |
+| All Pages| Make teh website easy to navigate | Using large wide buttons and exciting, contemporary and a contrasting color palatte | Works as expected |
 
 
 ## **DEPLOYMENT** <a name="deployment"></a>
